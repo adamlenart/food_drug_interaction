@@ -66,23 +66,30 @@ class PubMedQuery:
         res.raise_for_status()
         # result is an XML that needs to be parsed
         xml_res = ElementTree.fromstring(res.content)
-        # loop over the results to assign the abstracts to ids
-        for id, abst in zip(ids.split(','), xml_res.iter('AbstractText')):
-            abstract_dict[id] = abst.text
+        # save and return dictionary 
+        for i, abst in enumerate(xml_res.iter('AbstractText')):
+            abstract_dict[i] = abst.text
         return abstract_dict
 
 
 def download_all_abstracts(search_term, max_results):
     '''Downloads all of the PubMed abstracts corresponding to search_term and saves it to json files
        contaning a maximum of max_results abstracts'''
-
-    while True:
+    
+    more_abstracts = True
+    while more_abstracts is True:
+        # start pubmed query to download a maximum of max_results abstracts
         query = PubMedQuery(search_term, max_results)
         ids = query.id_getter()
         abstracts = query.abstract_getter(ids)
+        # check stopping condition
+        TOTAL = query.n_articles
+        STARTNUM = int(max_results)*PubMedQuery.COUNT
+        more_abstracts = (STARTNUM + int(max_results)) < int(query.n_articles)
+        # write results to jsons
         json_file = 'pbabstract' + str(PubMedQuery.COUNT) + '.json'
         print 'Saving to ' + json_file
-        print str(int(max_results)*PubMedQuery.COUNT) + '/' + query.n_articles + ' downloaded'
+        print str(STARTNUM) + '/' + TOTAL + ' downloaded'
         with open(json_file, 'w') as outfile:
             json.dump(abstracts, outfile, indent=4)
 
