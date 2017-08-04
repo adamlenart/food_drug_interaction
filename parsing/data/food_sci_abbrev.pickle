@@ -1,0 +1,2447 @@
+ccollections
+defaultdict
+p0
+(c__builtin__
+list
+p1
+tp2
+Rp3
+S'Pouteria sapota'
+p4
+S'P. sapota'
+p5
+sS'Scyphozoa'
+p6
+g6
+sS'Dromaius novaehollandiae'
+p7
+S'D. novaehollandiae'
+p8
+sS'Pistacia vera'
+p9
+S'P. vera'
+p10
+sS'Zoarces americanus'
+p11
+S'Z. americanus'
+p12
+sS'Phoenix dactylifera'
+p13
+S'P. dactylifera'
+p14
+sS'Syzygium jambos'
+p15
+S'S. jambos'
+p16
+sS'Clupeinae'
+p17
+g17
+sS'Alces alces'
+p18
+S'A. alces'
+p19
+sS'Cinnamomum aromaticum'
+p20
+S'C. aromaticum'
+p21
+sS'Allium sativum L. var. sativum'
+p22
+S'A. sativum'
+p23
+sS'Vitis vinifera'
+p24
+S'V. vinifera'
+p25
+sS'Morus'
+p26
+g26
+sS'Cucurbita maxima'
+p27
+S'C. maxima'
+p28
+sS'Morus nigra'
+p29
+S'M. nigra'
+p30
+sS'Saccharina japonica'
+p31
+S'S. japonica'
+p32
+sS'Chrysanthemum coronarium'
+p33
+S'C. coronarium'
+p34
+sS'Sorghum bicolor'
+p35
+S'S. bicolor'
+p36
+sS'Haliotis'
+p37
+g37
+sS'Chelonia mydas'
+p38
+S'C. mydas'
+p39
+sS'Basella alba'
+p40
+S'B. alba'
+p41
+sS'Aloysia triphylla'
+p42
+S'A. triphylla'
+p43
+sS'Vaccinium deliciosum'
+p44
+S'V. deliciosum'
+p45
+sS'Mespilus germanica'
+p46
+S'M. germanica'
+p47
+sS'Porphyra laciniata'
+p48
+S'P. laciniata'
+p49
+sS'Acipenseridae'
+p50
+g50
+sS'Corchorus olitorius'
+p51
+S'C. olitorius'
+p52
+sS'Bivalvia'
+p53
+g53
+sS'Palinuridae'
+p54
+g54
+sS'Lupinus albus'
+p55
+S'L. albus'
+p56
+sS'Auricularia polytricha'
+p57
+S'A. polytricha'
+p58
+sS'Engraulidae'
+p59
+g59
+sS'Brosme brosme'
+p60
+S'B. brosme'
+p61
+sS'Rumex articus'
+p62
+S'R. articus'
+p63
+sS'Polygonum alpinum'
+p64
+S'P. alpinum'
+p65
+sS'Engraulis encrasicolus'
+p66
+S'E. encrasicolus'
+p67
+sS'Trachurus symmetricus'
+p68
+S'T. symmetricus'
+p69
+sS'Citrus maxima'
+p70
+S'C. maxima'
+p71
+sS'Cucumis metuliferus'
+p72
+S'C. metuliferus'
+p73
+sS'Rubus'
+p74
+g74
+sS'Annona muricata'
+p75
+S'A. muricata'
+p76
+sS'Vaccinium macrocarpon'
+p77
+S'V. macrocarpon'
+p78
+sS'Sepiidae'
+p79
+g79
+sS'Illicium verum'
+p80
+S'I. verum'
+p81
+sS'Chanos chanos'
+p82
+S'C. chanos'
+p83
+sS'Cantharellus cibarius'
+p84
+S'C. cibarius'
+p85
+sS''
+p86
+g86
+sS'Triticum durum'
+p87
+S'T. durum'
+p88
+sS'Micropogonias undulatus'
+p89
+S'M. undulatus'
+p90
+sS'Vaccinium ovatum'
+p91
+S'V. ovatum'
+p92
+sS'Leporidae'
+p93
+g93
+sS'Oncorhynchus gorbuscha'
+p94
+S'O. gorbuscha'
+p95
+sS'Valerianella locusta'
+p96
+S'V. locusta'
+p97
+sS'Dimocarpus longan'
+p98
+S'D. longan'
+p99
+sS'Brassica napus'
+p100
+S'B. napus'
+p101
+sS'Nelumbo'
+p102
+g102
+sS'Prunus avium'
+p103
+S'P. avium'
+p104
+sS'Vaccinium angustifolium X Vaccinium corymbosum'
+p105
+S'V. angustifolium'
+p106
+sS'Cynara scolymus'
+p107
+S'C. scolymus'
+p108
+sS'Tamarindus indica'
+p109
+S'T. indica'
+p110
+sS'Pusa hispida'
+p111
+S'P. hispida'
+p112
+sS'Elettaria cardamomum'
+p113
+S'E. cardamomum'
+p114
+sS'Ananas comosus'
+p115
+S'A. comosus'
+p116
+sS'Olea europaea'
+p117
+S'O. europaea'
+p118
+sS'Brassica oleracea L. var. capitata L. f. alba DC.'
+p119
+S'B. oleracea'
+p120
+sS'Rubus idaeus'
+p121
+S'R. idaeus'
+p122
+sS'Asparagus officinalis'
+p123
+S'A. officinalis'
+p124
+sS'Grifola frondosa'
+p125
+S'G. frondosa'
+p126
+sS'Ribes glandulosum'
+p127
+S'R. glandulosum'
+p128
+sS'Phyllostachys edulis'
+p129
+S'P. edulis'
+p130
+sS'Vigna radiata'
+p131
+S'V. radiata'
+p132
+sS'Brassica alboglabra'
+p133
+S'B. alboglabra'
+p134
+sS'Citrus sinensis'
+p135
+S'C. sinensis'
+p136
+sS'Nelumbo nucifera'
+p137
+S'N. nucifera'
+p138
+sS'Bison bison'
+p139
+S'B. bison'
+p140
+sS'Opuntia'
+p141
+g141
+sS'Brosimum alicastrum'
+p142
+S'B. alicastrum'
+p143
+sS'Bubalus bubalis'
+p144
+S'B. bubalis'
+p145
+sS'Clinocardium nuttallii'
+p146
+S'C. nuttallii'
+p147
+sS'Procyon lotor'
+p148
+S'P. lotor'
+p149
+sS'Apium graveolens'
+p150
+S'A. graveolens'
+p151
+sS'Cyprinus carpio'
+p152
+S'C. carpio'
+p153
+sS'Coriandrum sativum'
+p154
+S'C. sativum'
+p155
+sS'Lactuca sativa'
+p156
+S'L. sativa'
+p157
+sS'Trachinotus carolinus'
+p158
+S'T. carolinus'
+p159
+sS'Manihot esculenta'
+p160
+S'M. esculenta'
+p161
+sS'Camellia oleifera'
+p162
+S'C. oleifera'
+p163
+sS'Allium ampeloprasum'
+p164
+S'A. ampeloprasum'
+p165
+sS'Cucurbita pepo var. clypeata'
+p166
+S'C. pepo'
+p167
+sS'Acipenser'
+p168
+g168
+sS'Wasabia japonica'
+p169
+S'W. japonica'
+p170
+sS'Phytolacca americana'
+p171
+S'P. americana'
+p172
+sS'Amelanchier alnifolia'
+p173
+S'A. alnifolia'
+p174
+sS'Brassica perviridis'
+p175
+S'B. perviridis'
+p176
+sS'Dallia pectoralis'
+p177
+S'D. pectoralis'
+p178
+sS'Columbidae'
+p179
+g179
+sS'Carissa macrocarpa'
+p180
+S'C. macrocarpa'
+p181
+sS'Astacidea'
+p182
+g182
+sS'Ribes \xc3\x97 nidigrolaria'
+p183
+S'R. \xc3\x97'
+p184
+sS'Allium'
+p185
+g185
+sS'Ictalurus punctatus'
+p186
+S'I. punctatus'
+p187
+sS'Foeniculum vulgare'
+p188
+S'F. vulgare'
+p189
+sS'Delphinapterus leucas'
+p190
+S'D. leucas'
+p191
+sS'Ginkgo biloba'
+p192
+S'G. biloba'
+p193
+sS'Virola surinamensis'
+p194
+S'V. surinamensis'
+p195
+sS'Sisymbrium'
+p196
+g196
+sS'Pediomelum esculentum'
+p197
+S'P. esculentum'
+p198
+sS'Cervidae'
+p199
+g199
+sS'Brassica oleracea var. viridis'
+p200
+S'B. oleracea'
+p201
+sS'Gossypium'
+p202
+g202
+sS'Pimpinella anisum'
+p203
+S'P. anisum'
+p204
+sS'Cicer arietinum'
+p205
+S'C. arietinum'
+p206
+sS'Tunicata'
+p207
+g207
+sS'Chamerion angustifolium'
+p208
+S'C. angustifolium'
+p209
+sS'Vaccinium ovalifolium'
+p210
+S'V. ovalifolium'
+p211
+sS'Citrullus lanatus var. fistulosus'
+p212
+S'C. lanatus'
+p213
+sS'Didelphis virginiana'
+p214
+S'D. virginiana'
+p215
+sS'Oncorhynchus tshawytscha'
+p216
+S'O. tshawytscha'
+p217
+sS'Mentha spicata'
+p218
+S'M. spicata'
+p219
+sS'Phaseolus coccineus'
+p220
+S'P. coccineus'
+p221
+sS'Lagenaria siceraria'
+p222
+S'L. siceraria'
+p223
+sS'Squaliformes'
+p224
+g224
+sS'Auricularia auricula-judae'
+p225
+S'A. auricula-judae'
+p226
+sS'Thunnus thynnus'
+p227
+S'T. thynnus'
+p228
+sS'Tetragonia tetragonioides'
+p229
+S'T. tetragonioides'
+p230
+sS'Vaccinium myrtilloides'
+p231
+S'V. myrtilloides'
+p232
+sS'Lopholatilus chamaeleonticeps'
+p233
+S'L. chamaeleonticeps'
+p234
+sS'Bubo virginianus'
+p235
+S'B. virginianus'
+p236
+sS'Eumetopias jubatus'
+p237
+S'E. jubatus'
+p238
+sS'Vigna umbellata'
+p239
+S'V. umbellata'
+p240
+sS'Diospyros virginiana'
+p241
+S'D. virginiana'
+p242
+sS'Portulaca oleracea'
+p243
+S'P. oleracea'
+p244
+sS'Matteuccia struthiopteris'
+p245
+S'M. struthiopteris'
+p246
+sS'Vaccinium stamineum'
+p247
+S'V. stamineum'
+p248
+sS'Vigna unguiculata'
+p249
+S'V. unguiculata'
+p250
+sS'Brassica ruvo'
+p251
+S'B. ruvo'
+p252
+sS'Rubus occidentalis'
+p253
+S'R. occidentalis'
+p254
+sS'Raphanus sativus var. sativus'
+p255
+S'R. sativus'
+p256
+sS'Levisticum officinale'
+p257
+S'L. officinale'
+p258
+sS'Coffea arabica'
+p259
+S'C. arabica'
+p260
+sS'Capsicum annuum var. annuum'
+p261
+S'C. annuum'
+p262
+sS'Pleuronectidae'
+p263
+g263
+sS'Perciformes'
+p264
+g264
+sS'Morone saxatilis'
+p265
+S'M. saxatilis'
+p266
+sS'Vaccinium alaskaense'
+p267
+S'V. alaskaense'
+p268
+sS'Melanitta fusca'
+p269
+S'M. fusca'
+p270
+sS'Brassica rapa var. pekinensis'
+p271
+S'B. rapa'
+p272
+sS'Physalis'
+p273
+g273
+sS'Oncorhynchus nerka'
+p274
+S'O. nerka'
+p275
+sS'Pimenta dioica'
+p276
+S'P. dioica'
+p277
+sS'Scorzonera hispanica'
+p278
+S'S. hispanica'
+p279
+sS'Columba'
+p280
+g280
+sS'Daucus carota ssp. sativus'
+p281
+S'D. carota'
+p282
+sS'Brassica oleracea var. gemmifera'
+p283
+S'B. oleracea'
+p284
+sS'Beta vulgaris ssp. cicla'
+p285
+S'B. vulgaris'
+p286
+sS'Odocoileus'
+p287
+g287
+sS'Cinnamomum verum'
+p288
+S'C. verum'
+p289
+sS'Mammea americana'
+p290
+S'M. americana'
+p291
+sS'Carica papaya'
+p292
+S'C. papaya'
+p293
+sS'Canarium ovatum'
+p294
+S'C. ovatum'
+p295
+sS'Opuntia cochenillifera'
+p296
+S'O. cochenillifera'
+p297
+sS'Vaccinium parvifolium'
+p298
+S'V. parvifolium'
+p299
+sS'Malus pumila'
+p300
+S'M. pumila'
+p301
+sS'Benincasa hispida'
+p302
+S'B. hispida'
+p303
+sS'Oryza rufipogon'
+p304
+S'O. rufipogon'
+p305
+sS'Alosa sapidissima'
+p306
+S'A. sapidissima'
+p307
+sS'Apium graveolens var. secalinum'
+p308
+S'A. graveolens'
+p309
+sS'Feijoa sellowiana'
+p310
+S'F. sellowiana'
+p311
+sS'Rubus loganobaccus'
+p312
+S'R. loganobaccus'
+p313
+sS'Litchi chinensis'
+p314
+S'L. chinensis'
+p315
+sS'Armoracia rusticana'
+p316
+S'A. rusticana'
+p317
+sS'Fragaria X ananassa'
+p318
+S'F. X'
+p319
+sS'Pollachius'
+p320
+g320
+sS'Carya illinoinensis'
+p321
+S'C. illinoinensis'
+p322
+sS'Oncorhynchus kisutch'
+p323
+S'O. kisutch'
+p324
+sS'Citrus latifolia'
+p325
+S'C. latifolia'
+p326
+sS'Syzygium cumini'
+p327
+S'S. cumini'
+p328
+sS'Chionoecetes opilio'
+p329
+S'C. opilio'
+p330
+sS'Archosargus probatocephalus'
+p331
+S'A. probatocephalus'
+p332
+sS'Phasianus colchicus'
+p333
+S'P. colchicus'
+p334
+sS'Enteroctopus dofleini'
+p335
+S'E. dofleini'
+p336
+sS'Sus scrofa domestica'
+p337
+S'S. scrofa'
+p338
+sS'Spinacia oleracea'
+p339
+S'S. oleracea'
+p340
+sS'Macadamia'
+p341
+g341
+sS'Vitis labrusca'
+p342
+S'V. labrusca'
+p343
+sS'Castanea'
+p344
+g344
+sS'Chamaemelum nobile'
+p345
+S'C. nobile'
+p346
+sS'Byrsonima crassifolia'
+p347
+S'B. crassifolia'
+p348
+sS'Anacardium occidentale'
+p349
+S'A. occidentale'
+p350
+sS'Belone belone'
+p351
+S'B. belone'
+p352
+sS'Ondatra zibethicus'
+p353
+S'O. zibethicus'
+p354
+sS'Rosa'
+p355
+g355
+sS'Vitis'
+p356
+g356
+sS'Ipomoea batatas'
+p357
+S'I. batatas'
+p358
+sS'Parastichopus californicus'
+p359
+S'P. californicus'
+p360
+sS'Laurus nobilis'
+p361
+S'L. nobilis'
+p362
+sS'Eragrostis tef'
+p363
+S'E. tef'
+p364
+sS'Cocos nucifera'
+p365
+S'C. nucifera'
+p366
+sS'Scophthalmus maximus'
+p367
+S'S. maximus'
+p368
+sS'Nephropidae'
+p369
+g369
+sS'Hordeum vulgare'
+p370
+S'H. vulgare'
+p371
+sS'Malpighia emarginata'
+p372
+S'M. emarginata'
+p373
+sS'Annona cherimola'
+p374
+S'A. cherimola'
+p375
+sS'Rangifer tarandus'
+p376
+S'R. tarandus'
+p377
+sS'Gaylussacia baccata'
+p378
+S'G. baccata'
+p379
+sS'Vaccinium vitis-idaea'
+p380
+S'V. vitis-idaea'
+p381
+sS'Brassica rapa var. rapa'
+p382
+S'B. rapa'
+p383
+sS'Brassica oleracea var. gongylodes'
+p384
+S'B. oleracea'
+p385
+sS'Cyclopteridae'
+p386
+g386
+sS'Prunus domestica'
+p387
+S'P. domestica'
+p388
+sS'Pachyrhizus erosus'
+p389
+S'P. erosus'
+p390
+sS'Cucumis sativus'
+p391
+S'C. sativus'
+p392
+sS'Reinhardtius hippoglossoides'
+p393
+S'R. hippoglossoides'
+p394
+sS'Triticum turanicum'
+p395
+S'T. turanicum'
+p396
+sS'Passiflora edulis'
+p397
+S'P. edulis'
+p398
+sS'Prunus virginiana'
+p399
+S'P. virginiana'
+p400
+sS'Eruca vesicaria'
+p401
+S'E. vesicaria'
+p402
+sS'Theobroma cacao'
+p403
+S'T. cacao'
+p404
+sS'Struthio camelus'
+p405
+S'S. camelus'
+p406
+sS'Clupea pallasii'
+p407
+S'C. pallasii'
+p408
+sS'Katharina tunicata'
+p409
+S'K. tunicata'
+p410
+sS'Nuphar lutea'
+p411
+S'N. lutea'
+p412
+sS'Allium cepa var. cepa'
+p413
+S'A. cepa'
+p414
+sS'Oncorhynchus keta'
+p415
+S'O. keta'
+p416
+sS'Rorippa nasturtium-aquaticum'
+p417
+S'R. nasturtium-aquaticum'
+p418
+sS'Zizania aquatica'
+p419
+S'Z. aquatica'
+p420
+sS'Clupea harengus harengus'
+p421
+S'C. harengus'
+p422
+sS'Arachis hypogaea'
+p423
+S'A. hypogaea'
+p424
+sS'Prunus persica var. nucipersica'
+p425
+S'P. persica'
+p426
+sS'Cyathea'
+p427
+g427
+sS'Strombidae'
+p428
+g428
+sS'Lathyrus sativus'
+p429
+S'L. sativus'
+p430
+sS'Sebastes'
+p431
+g431
+sS'Coryphaena hippurus'
+p432
+S'C. hippurus'
+p433
+sS'Vaccinium reticulatum'
+p434
+S'V. reticulatum'
+p435
+sS'Serranus scriba'
+p436
+S'S. scriba'
+p437
+sS'Grataegosorbus mitschurinii'
+p438
+S'G. mitschurinii'
+p439
+sS'Citrus aurantiifolia'
+p440
+S'C. aurantiifolia'
+p441
+sS'Allium sativum'
+p442
+S'A. sativum'
+p443
+sS'Raphanus sativus'
+p444
+S'R. sativus'
+p445
+sS'Brassica oleracea'
+p446
+S'B. oleracea'
+p447
+sS'Daucus carota'
+p448
+S'D. carota'
+p449
+sS'Leiostomus xanthurus'
+p450
+S'L. xanthurus'
+p451
+sS'Rubus chamaemorus'
+p452
+S'R. chamaemorus'
+p453
+sS'Oncorhynchus mykiss'
+p454
+S'O. mykiss'
+p455
+sS'Crassostrea virginica'
+p456
+S'C. virginica'
+p457
+sS'Hibiscus sabdariffa'
+p458
+S'H. sabdariffa'
+p459
+sS'Annona squamosa'
+p460
+S'A. squamosa'
+p461
+sS'Brassica oleracea var. alboglabra'
+p462
+S'B. oleracea'
+p463
+sS'Beta vulgaris var. rubra'
+p464
+S'B. vulgaris'
+p465
+sS'Citrus limon'
+p466
+S'C. limon'
+p467
+sS'Citrus reticulata'
+p468
+S'C. reticulata'
+p469
+sS'Osmerus mordax'
+p470
+S'O. mordax'
+p471
+sS'Anoplopoma fimbria'
+p472
+S'A. fimbria'
+p473
+sS'Cichorium intybus'
+p474
+S'C. intybus'
+p475
+sS'Vaccinium corymbosum'
+p476
+S'V. corymbosum'
+p477
+sS'Bos taurus X Bison bison'
+p478
+S'B. taurus'
+p479
+sS'Hippoglossus'
+p480
+g480
+sS'Zea mays'
+p481
+S'Z. mays'
+p482
+sS'Brassica oleracea var. italica'
+p483
+S'B. oleracea'
+p484
+sS'Thymus vulgaris'
+p485
+S'T. vulgaris'
+p486
+sS'Panicum miliaceum'
+p487
+S'P. miliaceum'
+p488
+sS'Crassostrea gigas'
+p489
+S'C. gigas'
+p490
+sS'Ficus carica'
+p491
+S'F. carica'
+p492
+sS'Ribes uva-crispa'
+p493
+S'R. uva-crispa'
+p494
+sS'Capparis spinosa'
+p495
+S'C. spinosa'
+p496
+sS'Papaver somniferum'
+p497
+S'P. somniferum'
+p498
+sS'Elaeis'
+p499
+g499
+sS'Sesbania bispinosa'
+p500
+S'S. bispinosa'
+p501
+sS'Metroxylon sagu'
+p502
+S'M. sagu'
+p503
+sS'Numida meleagris'
+p504
+S'N. meleagris'
+p505
+sS'Ipomoea aquatica'
+p506
+S'I. aquatica'
+p507
+sS'Hoplostethus atlanticus'
+p508
+S'H. atlanticus'
+p509
+sS'Vaccinium oxycoccos'
+p510
+S'V. oxycoccos'
+p511
+sS'Luffa aegyptiaca'
+p512
+S'L. aegyptiaca'
+p513
+sS'Allium ascalonicum'
+p514
+S'A. ascalonicum'
+p515
+sS'Psidium guajava'
+p516
+S'P. guajava'
+p517
+sS'Colocasia esculenta'
+p518
+S'C. esculenta'
+p519
+sS'Macadamia tetraphylla'
+p520
+S'M. tetraphylla'
+p521
+sS'Thunnus alalunga'
+p522
+S'T. alalunga'
+p523
+sS'Equus caballus'
+p524
+S'E. caballus'
+p525
+sS'Crocus sativus'
+p526
+S'C. sativus'
+p527
+sS'Gadiformes'
+p528
+g528
+sS'Gadus'
+p529
+g529
+sS'Citrullus lanatus'
+p530
+S'C. lanatus'
+p531
+sS'Aplodinotus grunniens'
+p532
+S'A. grunniens'
+p533
+sS'Paralithodes camtschaticus'
+p534
+S'P. camtschaticus'
+p535
+sS'Thymus pulegioides'
+p536
+S'T. pulegioides'
+p537
+sS'Sesamum orientale'
+p538
+S'S. orientale'
+p539
+sS'Cuminum cyminum'
+p540
+S'C. cyminum'
+p541
+sS'Prunus persica var. persica'
+p542
+S'P. persica'
+p543
+sS'Solanum melongena'
+p544
+S'S. melongena'
+p545
+sS'Perideridia oregana'
+p546
+S'P. oregana'
+p547
+sS'Phocidae'
+p548
+g548
+sS'Siluriformes'
+p549
+g549
+sS'Lepidium sativum'
+p550
+S'L. sativum'
+p551
+sS'Vaccinium myrtillus'
+p552
+S'V. myrtillus'
+p553
+sS'Maranta arundinacea'
+p554
+S'M. arundinacea'
+p555
+sS'Sciuridae'
+p556
+g556
+sS'Juglans nigra'
+p557
+S'J. nigra'
+p558
+sS'Salvia hispanica'
+p559
+S'S. hispanica'
+p560
+sS'Eucheuma'
+p561
+g561
+sS'Averrhoa carambola'
+p562
+S'A. carambola'
+p563
+sS'Vaccinium elliottii'
+p564
+S'V. elliottii'
+p565
+sS'Castanea sativa'
+p566
+S'C. sativa'
+p567
+sS'Vigna mungo'
+p568
+S'V. mungo'
+p569
+sS'Cucurbita pepo var. cylindrica'
+p570
+S'C. pepo'
+p571
+sS'Cinnamomum'
+p572
+g572
+sS'Agaricus bisporus'
+p573
+S'A. bisporus'
+p574
+sS'Merlangius merlangus'
+p575
+S'M. merlangus'
+p576
+sS'Morchellaceae'
+p577
+g577
+sS'Oryza sativa'
+p578
+S'O. sativa'
+p579
+sS'Cucurbita'
+p580
+g580
+sS'Ranidae'
+p581
+g581
+sS'Cucumis melo'
+p582
+S'C. melo'
+p583
+sS'Vigna unguiculata ssp. unguiculata'
+p584
+S'V. unguiculata'
+p585
+sS'Solanum lycopersicum'
+p586
+S'S. lycopersicum'
+p587
+sS'Hyssopus officinalis'
+p588
+S'H. officinalis'
+p589
+sS'Mytilidae'
+p590
+g590
+sS'Lentinus edodes'
+p591
+S'L. edodes'
+p592
+sS'Salix pulchra'
+p593
+S'S. pulchra'
+p594
+sS'Esox lucius'
+p595
+S'E. lucius'
+p596
+sS'Homarus americanus'
+p597
+S'H. americanus'
+p598
+sS'Ursus maritimus'
+p599
+S'U. maritimus'
+p600
+sS'Brassica oleracea var. sabauda'
+p601
+S'B. oleracea'
+p602
+sS'Myristica fragrans'
+p603
+S'M. fragrans'
+p604
+sS'Ceratonia siliqua'
+p605
+S'C. siliqua'
+p606
+sS'Salvia elegans'
+p607
+S'S. elegans'
+p608
+sS'Ocimum basilicum'
+p609
+S'O. basilicum'
+p610
+sS'Solanum lycopersicum var. cerasiforme'
+p611
+S'S. lycopersicum'
+p612
+sS'Secale cereale'
+p613
+S'S. cereale'
+p614
+sS'Sorbus aucuparia'
+p615
+S'S. aucuparia'
+p616
+sS'Ursus americanus'
+p617
+S'U. americanus'
+p618
+sS'Mangifera indica'
+p619
+S'M. indica'
+p620
+sS'Pangium edule'
+p621
+S'P. edule'
+p622
+sS'Thunnus'
+p623
+g623
+sS'Trisopterus esmarkii'
+p624
+S'T. esmarkii'
+p625
+sS'Prunus armeniaca'
+p626
+S'P. armeniaca'
+p627
+sS'Vigna unguiculata ssp. sesquipedalis'
+p628
+S'V. unguiculata'
+p629
+sS'Brassica napus var. pabularia'
+p630
+S'B. napus'
+p631
+sS'Seriola lalandi'
+p632
+S'S. lalandi'
+p633
+sS'Glycine max'
+p634
+S'G. max'
+p635
+sS'Vicia faba'
+p636
+S'V. faba'
+p637
+sS'Rumex acetosa'
+p638
+S'R. acetosa'
+p639
+sS'Fagopyrum esculentum'
+p640
+S'F. esculentum'
+p641
+sS'Eruca vesicaria ssp. sativa'
+p642
+S'E. vesicaria'
+p643
+sS'Salvia officinalis'
+p644
+S'S. officinalis'
+p645
+sS'Abramis brama'
+p646
+S'A. brama'
+p647
+sS'Salvelinus'
+p648
+g648
+sS'Lophius piscatorius'
+p649
+S'L. piscatorius'
+p650
+sS'Xanthosoma sagittifolium'
+p651
+S'X. sagittifolium'
+p652
+sS'Brassica rapa var. perviridis'
+p653
+S'B. rapa'
+p654
+sS'Durio zibethinus'
+p655
+S'D. zibethinus'
+p656
+sS'Chenopodium album'
+p657
+S'C. album'
+p658
+sS'Thelesperma'
+p659
+g659
+sS'Borago officinalis'
+p660
+S'B. officinalis'
+p661
+sS'Nephelium lappaceum'
+p662
+S'N. lappaceum'
+p663
+sS'Allium schoenoprasum'
+p664
+S'A. schoenoprasum'
+p665
+sS'Capra aegagrus hircus'
+p666
+S'C. aegagrus'
+p667
+sS'Phasianidae'
+p668
+g668
+sS'Capsicum pubescens'
+p669
+S'C. pubescens'
+p670
+sS'Curcuma longa'
+p671
+S'C. longa'
+p672
+sS'Vaccinium angustifolium'
+p673
+S'V. angustifolium'
+p674
+sS'Vitis rotundifolia'
+p675
+S'V. rotundifolia'
+p676
+sS'Melanogrammus aeglefinus'
+p677
+S'M. aeglefinus'
+p678
+sS'Brassica napus var. napus'
+p679
+S'B. napus'
+p680
+sS'Undaria pinnatifida'
+p681
+S'U. pinnatifida'
+p682
+sS'Raphanus sativus var. longipinnatus'
+p683
+S'R. sativus'
+p684
+sS'Satureja hortensis'
+p685
+S'S. hortensis'
+p686
+sS'Sambucus'
+p687
+g687
+sS'Anguilliformes'
+p688
+g688
+sS'Solanum tuberosum'
+p689
+S'S. tuberosum'
+p690
+sS'Juglans ailanthifolia'
+p691
+S'J. ailanthifolia'
+p692
+sS'Oncorhynchus'
+p693
+g693
+sS'Stenodus leucichthys'
+p694
+S'S. leucichthys'
+p695
+sS'Actinidia chinensis'
+p696
+S'A. chinensis'
+p697
+sS'Pinus'
+p698
+g698
+sS'Carum carvi'
+p699
+S'C. carvi'
+p700
+sS'Coregonus'
+p701
+g701
+sS'Stenotomus chrysops'
+p702
+S'S. chrysops'
+p703
+sS'Scomberomorus maculatus'
+p704
+S'S. maculatus'
+p705
+sS'Cancer magister'
+p706
+S'C. magister'
+p707
+sS'Artemisia dracunculus'
+p708
+S'A. dracunculus'
+p709
+sS'Psidium cattleianum'
+p710
+S'P. cattleianum'
+p711
+sS'Sander lucioperca'
+p712
+S'S. lucioperca'
+p713
+sS'Fagus'
+p714
+g714
+sS'Vigna aconitifolia'
+p715
+S'V. aconitifolia'
+p716
+sS'Quercus'
+p717
+g717
+sS'Musa acuminata'
+p718
+S'M. acuminata'
+p719
+sS'Rubus ursinus X idaeus'
+p720
+S'R. ursinus'
+p721
+sS'Scombridae'
+p722
+g722
+sS'Castanea mollissima'
+p723
+S'C. mollissima'
+p724
+sS'Sebastes alutus'
+p725
+S'S. alutus'
+p726
+sS'Buccinidae'
+p727
+g727
+sS'Ribes aureum var. villosum'
+p728
+S'R. aureum'
+p729
+sS'Anser anser'
+p730
+S'A. anser'
+p731
+sS'Corylus avellana'
+p732
+S'C. avellana'
+p733
+sS'Artocarpus heterophyllus'
+p734
+S'A. heterophyllus'
+p735
+sS'Apium graveolens var. rapaceum'
+p736
+S'A. graveolens'
+p737
+sS'Satureja montana'
+p738
+S'S. montana'
+p739
+sS'Garcinia mangostana'
+p740
+S'G. mangostana'
+p741
+sS'Lota lota'
+p742
+S'L. lota'
+p743
+sS'Punica granatum'
+p744
+S'P. granatum'
+p745
+sS'Pollachius pollachius'
+p746
+S'P. pollachius'
+p747
+sS'Limanda limanda'
+p748
+S'L. limanda'
+p749
+sS'Allium cepa'
+p750
+S'A. cepa'
+p751
+sS'Peprilus triacanthus'
+p752
+S'P. triacanthus'
+p753
+sS'Brassica oleracea var. conica'
+p754
+S'B. oleracea'
+p755
+sS'Tilia argentea'
+p756
+S'T. argentea'
+p757
+sS'Cichorium intybus var. foliosum'
+p758
+S'C. intybus'
+p759
+sS'Brassica rapa'
+p760
+S'B. rapa'
+p761
+sS'Cichlidae'
+p762
+g762
+sS'Castanea crenata'
+p763
+S'C. crenata'
+p764
+sS'Fagopyrum tataricum'
+p765
+S'F. tataricum'
+p766
+sS'Anatidae'
+p767
+g767
+sS'Moringa oleifera'
+p768
+S'M. oleifera'
+p769
+sS'Lepus timidus'
+p770
+S'L. timidus'
+p771
+sS'Brachyura'
+p772
+g772
+sS'Thunnus albacares'
+p773
+S'T. albacares'
+p774
+sS'Pectinidae'
+p775
+g775
+sS'Vanilla'
+p776
+g776
+sS'Gallus gallus'
+p777
+S'G. gallus'
+p778
+sS'Ostreidae'
+p779
+g779
+sS'Tilia'
+p780
+g780
+sS'Artocarpus altilis'
+p781
+S'A. altilis'
+p782
+sS'Cymbopogon citratus'
+p783
+S'C. citratus'
+p784
+sS'Avena sativa'
+p785
+S'A. sativa'
+p786
+sS'Sander vitreus'
+p787
+S'S. vitreus'
+p788
+sS'Triticum spelta'
+p789
+S'T. spelta'
+p790
+sS'Brassica oleracea var. capitata'
+p791
+S'B. oleracea'
+p792
+sS'Lens culinaris'
+p793
+S'L. culinaris'
+p794
+sS'Molva molva'
+p795
+S'M. molva'
+p796
+sS'Momordica charantia'
+p797
+S'M. charantia'
+p798
+sS'Arctium lappa'
+p799
+S'A. lappa'
+p800
+sS'Erignathus barbatus'
+p801
+S'E. barbatus'
+p802
+sS'Amaranthus'
+p803
+g803
+sS'Mentha arvensis'
+p804
+S'M. arvensis'
+p805
+sS'Laminaria'
+p806
+g806
+sS'Apium graveolens var. dulce'
+p807
+S'A. graveolens'
+p808
+sS'Chondrus crispus'
+p809
+S'C. crispus'
+p810
+sS'Osmeridae'
+p811
+g811
+sS'Oryctolagus'
+p812
+g812
+sS'Vaccinium uliginosum'
+p813
+S'V. uliginosum'
+p814
+sS'Anguilla'
+p815
+g815
+sS'Balaena mysticetus'
+p816
+S'B. mysticetus'
+p817
+sS'Microstomus kitt'
+p818
+S'M. kitt'
+p819
+sS'Juglans regia'
+p820
+S'J. regia'
+p821
+sS'Rhodophyta'
+p822
+g822
+sS'Sagittaria latifolia'
+p823
+S'S. latifolia'
+p824
+sS'Linum usitatissimum'
+p825
+S'L. usitatissimum'
+p826
+sS'Pyrus pyrifolia'
+p827
+S'P. pyrifolia'
+p828
+sS'Cajanus cajan'
+p829
+S'C. cajan'
+p830
+sS'Allium fistulosum'
+p831
+S'A. fistulosum'
+p832
+sS'Lutjanidae'
+p833
+g833
+sS'Hibiscus sabbariffa'
+p834
+S'H. sabbariffa'
+p835
+sS'Catostomus commersonii'
+p836
+S'C. commersonii'
+p837
+sS'Rubus spectabilis'
+p838
+S'R. spectabilis'
+p839
+sS'Piper nigrum'
+p840
+S'P. nigrum'
+p841
+sS'X Triticosecale rimpaui'
+p842
+S'X. Triticosecale'
+p843
+sS'Matricaria recutita'
+p844
+S'M. recutita'
+p845
+sS'Sechium edule'
+p846
+S'S. edule'
+p847
+sS'Eugenia uniflora'
+p848
+S'E. uniflora'
+p849
+sS'Melissa officinalis'
+p850
+S'M. officinalis'
+p851
+sS'Xiphias gladius'
+p852
+S'X. gladius'
+p853
+sS'Empetrum nigrum'
+p854
+S'E. nigrum'
+p855
+sS'Agave'
+p856
+g856
+sS'Trigonella foenum-graecum'
+p857
+S'T. foenum-graecum'
+p858
+sS'Eleocharis dulcis'
+p859
+S'E. dulcis'
+p860
+sS'Cichorium intybus var. sativum'
+p861
+S'C. intybus'
+p862
+sS'Diospyros'
+p863
+g863
+sS'Coffea canephora'
+p864
+S'C. canephora'
+p865
+sS'Beta vulgaris'
+p866
+S'B. vulgaris'
+p867
+sS'Prunus persica'
+p868
+S'P. persica'
+p869
+sS'Solanum quitoense'
+p870
+S'S. quitoense'
+p871
+sS'Coregonus artedi'
+p872
+S'C. artedi'
+p873
+sS'Dioscorea pentaphylla'
+p874
+S'D. pentaphylla'
+p875
+sS'Mentha X piperita'
+p876
+S'M. X'
+p877
+sS'Salmo salar'
+p878
+S'S. salar'
+p879
+sS'Mentha'
+p880
+g880
+sS'Ovis aries'
+p881
+S'O. aries'
+p882
+sS'Physalis philadelphica var. immaculata'
+p883
+S'P. philadelphica'
+p884
+sS'Phoca largha'
+p885
+S'P. largha'
+p886
+sS'Pleurotus ostreatus'
+p887
+S'P. ostreatus'
+p888
+sS'Corylus'
+p889
+g889
+sS'Brevoortia tyrannus'
+p890
+S'B. tyrannus'
+p891
+sS'Capsicum baccatum var. baccatum'
+p892
+S'C. baccatum'
+p893
+sS'Vaccinium arboreum'
+p894
+S'V. arboreum'
+p895
+sS'Oenothera biennis'
+p896
+S'O. biennis'
+p897
+sS'Malus'
+p898
+g898
+sS'Attalea speciosa'
+p899
+S'A. speciosa'
+p900
+sS'Crateva religiosa'
+p901
+S'C. religiosa'
+p902
+sS'Allium porrum'
+p903
+S'A. porrum'
+p904
+sS'Flammulina velutipes'
+p905
+S'F. velutipes'
+p906
+sS'Cynoscion'
+p907
+g907
+sS'Sinapis alba'
+p908
+S'S. alba'
+p909
+sS'Cirsium'
+p910
+g910
+sS'Pomatomus saltatrix'
+p911
+S'P. saltatrix'
+p912
+sS'Cervus canadensis'
+p913
+S'C. canadensis'
+p914
+sS'Micromesistius poutassou'
+p915
+S'M. poutassou'
+p916
+sS'Brassica oleracea var. botrytis'
+p917
+S'B. oleracea'
+p918
+sS'Manilkara zapota'
+p919
+S'M. zapota'
+p920
+sS'Bertholletia excelsa'
+p921
+S'B. excelsa'
+p922
+sS'Gastropoda'
+p923
+g923
+sS'Papaver'
+p924
+g924
+sS'Lippia graveolens'
+p925
+S'L. graveolens'
+p926
+sS'Phaseolus lunatus'
+p927
+S'P. lunatus'
+p928
+sS'Syzygium aromaticum'
+p929
+S'S. aromaticum'
+p930
+sS'Cydonia oblonga'
+p931
+S'C. oblonga'
+p932
+sS'Salmonidae'
+p933
+g933
+sS'Citrus X paradisi'
+p934
+S'C. X'
+p935
+sS'Zingiber officinale'
+p936
+S'Z. officinale'
+p937
+sS'Percoidei'
+p938
+g938
+sS'Zizania'
+p939
+g939
+sS'Juglans cinerea'
+p940
+S'J. cinerea'
+p941
+sS'Scomberomorus cavalla'
+p942
+S'S. cavalla'
+p943
+sS'Prunus'
+p944
+g944
+sS'Meleagris gallopavo'
+p945
+S'M. gallopavo'
+p946
+sS'Pinus edulis'
+p947
+S'P. edulis'
+p948
+sS'Epinephelus'
+p949
+g949
+sS'Origanum X majoricum'
+p950
+S'O. X'
+p951
+sS'Eriobotrya japonica'
+p952
+S'E. japonica'
+p953
+sS'Myrica rubra'
+p954
+S'M. rubra'
+p955
+sS'Myrica'
+p956
+g956
+sS'Pisum sativum'
+p957
+S'P. sativum'
+p958
+sS'Coregonus nasus'
+p959
+S'C. nasus'
+p960
+sS'Panax'
+p961
+g961
+sS'Petasites japonicus'
+p962
+S'P. japonicus'
+p963
+sS'Prunus dulcis'
+p964
+S'P. dulcis'
+p965
+sS'Spirulina'
+p966
+g966
+sS'Coffea'
+p967
+g967
+sS'Pyrus communis'
+p968
+S'P. communis'
+p969
+sS'Sambucus nigra'
+p970
+S'S. nigra'
+p971
+sS'Vitis aestivalis'
+p972
+S'V. aestivalis'
+p973
+sS'Helianthus annuus'
+p974
+S'H. annuus'
+p975
+sS'Cetacea'
+p976
+g976
+sS'Rheum rhabarbarum'
+p977
+S'R. rhabarbarum'
+p978
+sS'Gadus macrocephalus'
+p979
+S'G. macrocephalus'
+p980
+sS'Theobroma grandiflorum'
+p981
+S'T. grandiflorum'
+p982
+sS'Brassica juncea'
+p983
+S'B. juncea'
+p984
+sS'Capsicum'
+p985
+g985
+sS'Myoxocephalus'
+p986
+g986
+sS'Ursus arctos'
+p987
+S'U. arctos'
+p988
+sS'Lactuca sativa L. var. longifolia'
+p989
+S'L. sativa'
+p990
+sS'Diospyros kaki'
+p991
+S'D. kaki'
+p992
+sS'Hedysarum alpinum'
+p993
+S'H. alpinum'
+p994
+sS'Verbena officinalis'
+p995
+S'V. officinalis'
+p996
+sS'Tilia cordata'
+p997
+S'T. cordata'
+p998
+sS'Mugil cephalus'
+p999
+S'M. cephalus'
+p1000
+sS'Sebastes viviparus'
+p1001
+S'S. viviparus'
+p1002
+sS'Ascidiacea'
+p1003
+g1003
+sS'Tragopogon porrifolius'
+p1004
+S'T. porrifolius'
+p1005
+sS'Mytilus edulis'
+p1006
+S'M. edulis'
+p1007
+sS'Salvelinus namaycush'
+p1008
+S'S. namaycush'
+p1009
+sS'Teuthida'
+p1010
+g1010
+sS'Theragra chalcogramma'
+p1011
+S'T. chalcogramma'
+p1012
+sS'Origanum vulgare'
+p1013
+S'O. vulgare'
+p1014
+sS'Phaseolus vulgaris'
+p1015
+S'P. vulgaris'
+p1016
+sS'Odobenus rosmarus'
+p1017
+S'O. rosmarus'
+p1018
+sS'Vitellaria paradoxa'
+p1019
+S'V. paradoxa'
+p1020
+sS'Prunus tomentosa'
+p1021
+S'P. tomentosa'
+p1022
+sS'Castor canadensis'
+p1023
+S'C. canadensis'
+p1024
+sS'Triticum'
+p1025
+g1025
+sS'Callinectes sapidus'
+p1026
+S'C. sapidus'
+p1027
+sS'Ribes rubrum'
+p1028
+S'R. rubrum'
+p1029
+sS'Rosmarinus officinalis'
+p1030
+S'R. officinalis'
+p1031
+sS'Cynara cardunculus'
+p1032
+S'C. cardunculus'
+p1033
+sS'Musa X paradisiaca'
+p1034
+S'M. X'
+p1035
+sS'Gadus morhua'
+p1036
+S'G. morhua'
+p1037
+sS'Annona reticulata'
+p1038
+S'A. reticulata'
+p1039
+sS'Ophiodon elongatus'
+p1040
+S'O. elongatus'
+p1041
+sS'Dysphania ambrosioides'
+p1042
+S'D. ambrosioides'
+p1043
+sS'Fortunella'
+p1044
+g1044
+sS'Sus scrofa'
+p1045
+S'S. scrofa'
+p1046
+sS'Typha angustifolia'
+p1047
+S'T. angustifolia'
+p1048
+sS'Lupinus'
+p1049
+g1049
+sS'Medicago sativa'
+p1050
+S'M. sativa'
+p1051
+sS'Rubus arcticus'
+p1052
+S'R. arcticus'
+p1053
+sS'Ribes nigrum'
+p1054
+S'R. nigrum'
+p1055
+sS'Anethum graveolens'
+p1056
+S'A. graveolens'
+p1057
+sS'Hippoglossus hippoglossus'
+p1058
+S'H. hippoglossus'
+p1059
+sS'Sardinops sagax'
+p1060
+S'S. sagax'
+p1061
+sS'Anthriscus cerefolium'
+p1062
+S'A. cerefolium'
+p1063
+sS'Viburnum edule'
+p1064
+S'V. edule'
+p1065
+sS'Brassica rapa var. chinensis'
+p1066
+S'B. rapa'
+p1067
+sS'Camellia sinensis'
+p1068
+S'C. sinensis'
+p1069
+sS'Allium tuberosum'
+p1070
+S'A. tuberosum'
+p1071
+sS'Ziziphus zizyphus'
+p1072
+S'Z. zizyphus'
+p1073
+sS'Bos taurus'
+p1074
+S'B. taurus'
+p1075
+sS'Helianthus tuberosus'
+p1076
+S'H. tuberosus'
+p1077
+sS'Vigna unguiculata ssp. cylindrica'
+p1078
+S'V. unguiculata'
+p1079
+sS'Carya'
+p1080
+g1080
+sS'Psophocarpus tetragonolobus'
+p1081
+S'P. tetragonolobus'
+p1082
+sS'Octopus vulgaris'
+p1083
+S'O. vulgaris'
+p1084
+sS'Pleuronectiformes'
+p1085
+g1085
+sS'Origanum majorana'
+p1086
+S'O. majorana'
+p1087
+sS'Origanum onites'
+p1088
+S'O. onites'
+p1089
+sS'Lablab purpureus'
+p1090
+S'L. purpureus'
+p1091
+sS'Capsicum annuum'
+p1092
+S'C. annuum'
+p1093
+sS'Nephrops norvegicus'
+p1094
+S'N. norvegicus'
+p1095
+sS'Pastinaca sativa'
+p1096
+S'P. sativa'
+p1097
+sS'Solanum lycopersicum var. lycopersicum'
+p1098
+S'S. lycopersicum'
+p1099
+sS'Caridea'
+p1100
+g1100
+sS'Photinia melanocarpa'
+p1101
+S'P. melanocarpa'
+p1102
+sS'Cucurbita moschata'
+p1103
+S'C. moschata'
+p1104
+sS'Juglans'
+p1105
+g1105
+sS'Dioscorea'
+p1106
+g1106
+sS'Eugenia'
+p1107
+g1107
+sS'NULL'
+p1108
+g1108
+sS'Vaccinium'
+p1109
+g1109
+sS'Cichorium endivia'
+p1110
+S'C. endivia'
+p1111
+sS'Artemisia vulgaris'
+p1112
+S'A. vulgaris'
+p1113
+sS'Rumex'
+p1114
+g1114
+sS'Capsicum chinense'
+p1115
+S'C. chinense'
+p1116
+sS'Katsuwonus pelamis'
+p1117
+S'K. pelamis'
+p1118
+sS'Opuntia macrorhiza'
+p1119
+S'O. macrorhiza'
+p1120
+sS'Urocitellus parryii'
+p1121
+S'U. parryii'
+p1122
+sS'Persea americana'
+p1123
+S'P. americana'
+p1124
+sS'Prunus cerasus'
+p1125
+S'P. cerasus'
+p1126
+sS'Angelica keiskei'
+p1127
+S'A. keiskei'
+p1128
+sS'Hippophae rhamnoides'
+p1129
+S'H. rhamnoides'
+p1130
+sS'Lagopus muta'
+p1131
+S'L. muta'
+p1132
+sS'Soleidae'
+p1133
+g1133
+sS'Anas platyrhynchos'
+p1134
+S'A. platyrhynchos'
+p1135
+sS'Chenopodium quinoa'
+p1136
+S'C. quinoa'
+p1137
+sS'Anarhichas lupus'
+p1138
+S'A. lupus'
+p1139
+sS'Mentha aquatica'
+p1140
+S'M. aquatica'
+p1141
+sS'Brassica oleracea var. costata'
+p1142
+S'B. oleracea'
+p1143
+sS'Carthamus tinctorius'
+p1144
+S'C. tinctorius'
+p1145
+sS'Abelmoschus esculentus'
+p1146
+S'A. esculentus'
+p1147
+sS'Taraxacum officinale'
+p1148
+S'T. officinale'
+p1149
+sS'Squalus acanthias'
+p1150
+S'S. acanthias'
+p1151
+sS'Triticum aestivum'
+p1152
+S'T. aestivum'
+p1153
+sS'Vigna angularis'
+p1154
+S'V. angularis'
+p1155
+sS'Petroselinum crispum'
+p1156
+S'P. crispum'
+p1157
+sS'Citrus paradisi X Citrus maxima'
+p1158
+S'C. paradisi'
+p1159
+sS'Scomber scombrus'
+p1160
+S'S. scombrus'
+p1161
+sS'Lepomis gibbosus'
+p1162
+S'L. gibbosus'
+p1163
+sS'Raphanus sativus var. niger'
+p1164
+S'R. sativus'
+p1165
+s.
