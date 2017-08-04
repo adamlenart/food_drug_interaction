@@ -1,0 +1,13 @@
+{
+  "nodes": [
+    {"id": "ACEI", "group": 1},
+    {"id": "oat", "group": 2},
+    {"id": "casein", "group": 8},
+    {"id": "whey", "group": 8}
+  ],
+  "links": [
+    {"source": "ACEI", "target": "oat", "value": 2},
+    {"source": "ACEI", "target": "casein", "value": 2},
+    {"source": "ACEI", "target": "whey", "value": 2}    
+  ]
+}
