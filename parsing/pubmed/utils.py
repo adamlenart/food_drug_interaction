@@ -73,7 +73,7 @@ class PubMedQuery:
         return abstract_dict
 
 
-def download_all_abstracts(search_term, max_results):
+def download_all_abstracts(search_term, max_results, saving_identifier = None):
     '''Downloads all of the PubMed abstracts corresponding to search_term and saves it to json files
        contaning a maximum of max_results abstracts'''
     
@@ -88,11 +88,15 @@ def download_all_abstracts(search_term, max_results):
         STARTNUM = int(max_results)*PubMedQuery.COUNT
         more_abstracts = (STARTNUM + int(max_results)) < int(query.n_articles)
         # write results to jsons
-        json_file = 'pbabstract' + str(PubMedQuery.COUNT) + '.json'
+        if saving_identifier is None:
+            json_file = 'pbabstract' + str(PubMedQuery.COUNT) + '.json'
+        else:
+            json_file = 'pbabstract_' + saving_identifier + str(PubMedQuery.COUNT) + '.json'
         print 'Saving to ' + json_file
         print str(STARTNUM) + '/' + TOTAL + ' downloaded'
         with open(json_file, 'w') as outfile:
             json.dump(abstracts, outfile, indent=4)
+    return int(TOTAL)
 
 
 
