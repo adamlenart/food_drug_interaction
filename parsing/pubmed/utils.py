@@ -92,10 +92,11 @@ def download_all_abstracts(search_term, max_results, saving_identifier = None):
             json_file = 'pbabstract' + str(PubMedQuery.COUNT) + '.json'
         else:
             json_file = 'pbabstract_' + saving_identifier + str(PubMedQuery.COUNT) + '.json'
-        print 'Saving to ' + json_file
-        print str(STARTNUM) + '/' + TOTAL + ' downloaded'
-        with open(json_file, 'w') as outfile:
-            json.dump(abstracts, outfile, indent=4)
+        if int(TOTAL) > 0:
+            print 'Saving to ' + json_file
+            print str(STARTNUM) + '/' + TOTAL + ' downloaded'
+            with open(json_file, 'w') as outfile:
+                json.dump(abstracts, outfile, indent=4)
     return int(TOTAL)
 
 
