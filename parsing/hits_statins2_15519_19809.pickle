@@ -1,0 +1,452 @@
+(lp0
+S'statins "palmitoyl-coa"'
+p1
+aS'statins "4-propan-1-al-2-yl toluene"'
+p2
+aS'statins "triacetin"'
+p3
+aS'statins "terpene"'
+p4
+aS'statins "cyanidin 3-(6\'\'-malonyllaminaribioside)"'
+p5
+aS'statins "myricetin 3-(4\'\'-acetylrhamnoside)"'
+p6
+aS'statins "cyanidin 3,5-digalactoside"'
+p7
+aS'statins "monodehydroascorbate"'
+p8
+aS'statins "4-methoxy-3-geranylgeranyl-1,2-dihydroxybenzene"'
+p9
+aS'statins "apigenin 6-c-glucosyl-o-arabinoside"'
+p10
+aS'statins "anthocyanins"'
+p11
+aS'statins "1-deoxynojirimycin"'
+p12
+aS'statins "calsequestrin"'
+p13
+aS'statins "tartaric acid"'
+p14
+aS'statins "heptanoate"'
+p15
+aS'statins "flaxseed lignan-hmga oligomer"'
+p16
+aS'statins "lanthanum"'
+p17
+aS'statins "vanadium"'
+p18
+aS'statins "protocatechuic acid"'
+p19
+aS'statins "(3r,6e)-6-caryophyllen-15-al"'
+p20
+aS'statins "galactosyl erythro-5-hydroxy-l-lysine"'
+p21
+aS'statins "palladium"'
+p22
+aS'statins "eugenol"'
+p23
+aS'statins "acetaldehyde"'
+p24
+aS'statins "sodium borohydride"'
+p25
+aS'statins "luteolin 7-glucuronylglucoside"'
+p26
+aS'statins "1-pentanol"'
+p27
+aS'statins "apigenin 7-glucuronosyl-glucoside"'
+p28
+aS'statins "5\'-methylthioadenosine"'
+p29
+aS'statins "phenylacetic acid"'
+p30
+aS'statins "1,4-benzoquinone"'
+p31
+aS'statins "epicatechin"'
+p32
+aS'statins "harman"'
+p33
+aS'statins "estriol"'
+p34
+aS'statins "arecoline"'
+p35
+aS'statins "2,3-dihydroxybenzoic acid"'
+p36
+aS'statins "zeaxanthin"'
+p37
+aS'statins "agmatine"'
+p38
+aS'statins "nickel"'
+p39
+aS'statins "quinolinic acid"'
+p40
+aS'statins "25-hydroxycholecalciferol"'
+p41
+aS'statins "orotidine"'
+p42
+aS'statins "alpha-lipoic acid"'
+p43
+aS'statins "caffeic acid"'
+p44
+aS'statins "3beta-cycloartane-3,25-diol"'
+p45
+aS'statins "cdp-choline"'
+p46
+aS'statins "kaempferol 7-(3g-glucosylgentiobioside)"'
+p47
+aS'statins "kaempferol 3-(2\'\'-rhamnosylrutinoside)"'
+p48
+aS'statins "2\'\',3\'\'-diacetylcosmosiin"'
+p49
+aS'statins "avenasterol"'
+p50
+aS'statins "selenite"'
+p51
+aS'statins "dihydroxyferuloyl-sinapoyl spermidine"'
+p52
+aS'statins "imp"'
+p53
+aS'statins "1-dodecanol"'
+p54
+aS'statins "l-citrulline"'
+p55
+aS'statins "3\',4\',5,7,8-pentamethoxyflavanone"'
+p56
+aS'statins "l-dopa"'
+p57
+aS'statins "zerumbone"'
+p58
+aS'statins "glycitein"'
+p59
+aS'statins "kaempferol 3-(2\'\'\'-feruloylsophoroside) 7-cellobioside"'
+p60
+aS'statins "3-(3-methylbutylidene)-1(3h)-isobenzofuranone"'
+p61
+aS'statins "morin"'
+p62
+aS'statins "putrescine"'
+p63
+aS'statins "dihydrobutylidene phthalide"'
+p64
+aS'statins "(+)-pulegone"'
+p65
+aS'statins "phosphorylcholine"'
+p66
+aS'statins "cyclohexane"'
+p67
+aS'statins "linoleate"'
+p68
+aS'statins "cyanidin 3-(6\'\'-p-coumarylsambubioside)"'
+p69
+aS'statins "gamma-tocopherol"'
+p70
+aS'statins "hemin"'
+p71
+aS'statins "nicotinate"'
+p72
+aS'statins "phosphatidylglycerol"'
+p73
+aS'statins "cyanidin 3-(cinnamoylglucoside)"'
+p74
+aS'statins "methyl 2-(methylthio)butyrate"'
+p75
+aS'statins "benzyl acetate"'
+p76
+aS'statins "kaempferol 7-rhamnofuranoside"'
+p77
+aS'statins "scordinine b-3"'
+p78
+aS'statins "lucidumol a"'
+p79
+aS'statins "benzofuran"'
+p80
+aS'statins "methyl helianthenoate a glucoside"'
+p81
+aS'statins "\xce\xb1-carotene"'
+p82
+aS'statins "1-butanol"'
+p83
+aS'statins "3,4-dimethylpyrrolo[1,2-a]pyrazine"'
+p84
+aS'statins "pc(p-16:0/16:0)"'
+p85
+aS'statins "3,4-dihydroxyphenylacetic acid"'
+p86
+aS'statins "24-methylene-31-nor-5alpha-lanost-9(11)-3beta-ol"'
+p87
+aS'statins "beta-lactoglobulin"'
+p88
+aS'statins "4-hydroxybenzoate"'
+p89
+aS'statins "1-hexanol"'
+p90
+aS'statins "glycitin"'
+p91
+aS'statins "1,2-ethanedithiol"'
+p92
+aS'statins "glycolaldehyde"'
+p93
+aS'statins "cyanidin 3,3\'-diglucoside"'
+p94
+aS'statins "myricyl cerotate"'
+p95
+aS'statins "inosine"'
+p96
+aS'statins "cyanidin 3-(2g-xylosylrutinoside)"'
+p97
+aS'statins "sn-glycerol-3-phosphate"'
+p98
+aS'statins "2-deoxy-l-ribono-1,4-lactone"'
+p99
+aS'statins "inosinic acid"'
+p100
+aS'statins "biliverdin-ix-\xce\xb1"'
+p101
+aS'statins "cyanidin 3-(6\'\'-dioxalylglucoside)"'
+p102
+aS'statins "ent-16a-hydro-6a,7a,17-trihydroxy-19-kauranoic acid"'
+p103
+aS'statins "linalool 3-(6\'\'-apiosylglucoside)"'
+p104
+aS'statins "citric acid"'
+p105
+aS'statins "malic acid"'
+p106
+aS'statins "gallium"'
+p107
+aS'statins "chorismate"'
+p108
+aS'statins "kahweol"'
+p109
+aS'statins "salicylates"'
+p110
+aS'statins "azelaic acid"'
+p111
+aS'statins "xylulose 5-phosphate"'
+p112
+aS'statins "l-glutamate"'
+p113
+aS'statins "luteolin 6-c-glucosyl-o-arabinoside"'
+p114
+aS'statins "1-deoxy-d-xylulose 5-phosphate"'
+p115
+aS'statins "cd2+"'
+p116
+aS'statins "secoisolariciresinol"'
+p117
+aS'statins "gamma-butyrolactone"'
+p118
+aS'statins "pyruvic acid"'
+p119
+aS'statins "codeine"'
+p120
+aS'statins "n-acetylglucosamine"'
+p121
+aS'statins "acetoacetate"'
+p122
+aS'statins "apiosylglucosyl 4-hydroxybenzoate"'
+p123
+aS'statins "ursolic acid"'
+p124
+aS'statins "(r)-pantothenic acid 4\'-o-b-d-glucoside"'
+p125
+aS'statins "2\'\',3\'\'-di-o-p-coumaroylafzelin"'
+p126
+aS'statins "leukotriene-d4"'
+p127
+aS'statins "phosphoenolpyruvate"'
+p128
+aS'statins "glyoxylate"'
+p129
+aS'statins "3-(4-hydroxyphenyl)-3-hydroxy-propionyl-coa"'
+p130
+aS'statins "hypericin"'
+p131
+aS'statins "secologanin"'
+p132
+aS'statins "24,25-dihydrolanosterol"'
+p133
+aS'statins "oleoyl-coa"'
+p134
+aS'statins "kaempferol 3-o-rhamnosyl-rutinoside"'
+p135
+aS'statins "2\',4\',5,7,8-pentahydroxyisoflavone"'
+p136
+aS'statins "guanosine diphosphate"'
+p137
+aS'statins "quinoline"'
+p138
+aS'statins "dimethylallyl diphosphate"'
+p139
+aS'statins "(s)-3-hydroxy-3-methylglutaryl-coa"'
+p140
+aS'statins "peonidin 3-(6\'\'-acetyl-galactoside)"'
+p141
+aS'statins "lutein"'
+p142
+aS'statins "kaempferol 3-gluco-rhamnoside"'
+p143
+aS'statins "phenethyl 6-galloylglucoside"'
+p144
+aS'statins "kaempferol 7-o-beta-d-glucoside-o-alpha-l-rhamnosyl"'
+p145
+aS'statins "cobalamin"'
+p146
+aS'statins "kaempferol 3-o-alpha-l-(3-trans-p-coumaroyl-rhamnopyranoside)"'
+p147
+aS'statins "alpha-amylase"'
+p148
+aS'statins "tetrahydrofolate"'
+p149
+aS'statins "papaverine"'
+p150
+aS'statins "delphinidin 3-o-glucosyl-5-o-caffeoylglucoside"'
+p151
+aS'statins "oryzanol"'
+p152
+aS'statins "131-hydroxy-magnesium-protoporphyrin ix 13-monomethyl ester"'
+p153
+aS'statins "n-methylphenethylamine"'
+p154
+aS'statins "cynaroside a"'
+p155
+aS'statins "l-ascorbate"'
+p156
+aS'statins "methyl-1,5-alpha-stigmast-7-en-3beta-ol"'
+p157
+aS'statins "kaempferol 3-p-coumaroylsophorotrioside"'
+p158
+aS'statins "2-oxobutanoate"'
+p159
+aS'statins "saponins"'
+p160
+aS'statins "1-octanol"'
+p161
+aS'statins "(+)-taxifolin"'
+p162
+aS'statins "violet alcohol"'
+p163
+aS'statins "naphthalene"'
+p164
+aS'statins "s-adenosyl-l-methionine"'
+p165
+aS'statins "ajmaline"'
+p166
+aS'statins "delphinidin"'
+p167
+aS'statins "pyridinoline"'
+p168
+aS'statins "2,6-diamino-4-hydroxy-5-formamidopyrimidine"'
+p169
+aS'statins "trans-grandmarin isovalerate"'
+p170
+aS'statins "genipin"'
+p171
+aS'statins "piperidine"'
+p172
+aS'statins "(2z,6e)-3,7,11,15,19-pentamethyl-2,6-eicosadien-1-ol"'
+p173
+aS'statins "gladiatoside a3"'
+p174
+aS'statins "coumestrol"'
+p175
+aS'statins "selenide"'
+p176
+aS'statins "piperic acid"'
+p177
+aS'statins "6-methyl 2-galloylgalactarate"'
+p178
+aS'statins "epsilon-viniferin"'
+p179
+aS'statins "hesperetin 7-(2,6-dirhamnosylglucoside)"'
+p180
+aS'statins "2\'\',4\'\'-diacetylafzelin"'
+p181
+aS'statins "b-chlorogenin 3-[2\'\',4\'\'-dirhamnosylglucoside]"'
+p182
+aS'statins "mevalonate-diphosphate"'
+p183
+aS'statins "unknown 370"'
+p184
+aS'statins "\xce\xb2-d-glucose"'
+p185
+aS'statins "2-angeloyl-9-(3-methyl-2e-pentenoyl)-2b,9a-dihydroxy-4z,10(14)-oplopadien-3-one"'
+p186
+aS'statins "phenol"'
+p187
+aS'statins "glc3man9glcnac2"'
+p188
+aS'statins "delphinidin 3-o-glucosyl-5-o-caffeoylglucoside-3\'-o-glucoside"'
+p189
+aS'statins "presqualene diphosphate"'
+p190
+aS'statins "butanoic acid"'
+p191
+aS'statins "vitisin a"'
+p192
+aS'statins "vitisin b"'
+p193
+aS'statins "dihydroxyacetone"'
+p194
+aS'statins "kaempferol 3-alpha-d-arabinopyranoside"'
+p195
+aS'statins "chlorine"'
+p196
+aS'statins "angelic acid"'
+p197
+aS'statins "quercetin 3,4\',7-triglucoside"'
+p198
+aS'statins "bl ii"'
+p199
+aS'statins "kaempferol 3-feruloylapioside"'
+p200
+aS'statins "l-leucine"'
+p201
+aS'statins "patulin"'
+p202
+aS'statins "l-methionine"'
+p203
+aS'statins "cdp"'
+p204
+aS'statins "gibberellin a29-catabolite"'
+p205
+aS'statins "kaempferol 3-o-acetyl-glucoside"'
+p206
+aS'statins "pelargonidin 3-o-\xce\xb2-d-caffeoylglucoside"'
+p207
+aS'statins "oxalates"'
+p208
+aS'statins "5,6:8,9-diepoxyergost-22-ene-3,7beta-diol"'
+p209
+aS'statins "methylglyoxal"'
+p210
+aS'statins "glycinin"'
+p211
+aS'statins "boron"'
+p212
+aS'statins "digeranyl"'
+p213
+aS'statins "2,3-dihydroxy-3-methylvalerate"'
+p214
+aS'statins "isopentenyl adenosine"'
+p215
+aS'statins "3\'-methoxyacetophenone"'
+p216
+aS'statins "maltodextrin"'
+p217
+aS'statins "n-acetyl-l-cysteine"'
+p218
+aS'statins "sedanoic anhydride"'
+p219
+aS'statins "3beta-cycloart-5-ene-3,25-diol"'
+p220
+aS'statins "hexosamine"'
+p221
+aS'statins "chromium"'
+p222
+aS'statins "ubiquinone-8"'
+p223
+aS'statins "riboflavin"'
+p224
+aS'statins "arsenite"'
+p225
+a.
