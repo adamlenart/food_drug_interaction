@@ -1,0 +1,776 @@
+(lp0
+S'isoniazid "avocado"'
+p1
+aS'isoniazid "fig"'
+p2
+aS'isoniazid "gin"'
+p3
+aS'isoniazid "kale"'
+p4
+aS'isoniazid "beverages"'
+p5
+aS'isoniazid "cocoa butter"'
+p6
+aS'isoniazid "other fish product"'
+p7
+aS'isoniazid "lotus"'
+p8
+aS'isoniazid "liquor"'
+p9
+aS'isoniazid "almond"'
+p10
+aS'isoniazid "ginger"'
+p11
+aS'isoniazid "spinach"'
+p12
+aS'isoniazid "amaranth"'
+p13
+aS'isoniazid "leek"'
+p14
+aS'isoniazid "buffalo"'
+p15
+aS'isoniazid "corn"'
+p16
+aS'isoniazid "mugwort"'
+p17
+aS'isoniazid "oat"'
+p18
+aS'isoniazid "pulses"'
+p19
+aS'isoniazid "common ling"'
+p20
+aS'isoniazid "mushrooms"'
+p21
+aS'isoniazid "mustard"'
+p22
+aS'isoniazid "snail"'
+p23
+aS'isoniazid "milk (other mammals)"'
+p24
+aS'isoniazid "apple"'
+p25
+aS'isoniazid "deer"'
+p26
+aS'isoniazid "carrot"'
+p27
+aS'isoniazid "casein"'
+p28
+aS'isoniazid "horse"'
+p29
+aS'isoniazid "elk"'
+p30
+aS'isoniazid "pate"'
+p31
+aS'isoniazid "soft drink"'
+p32
+aS'isoniazid "turmeric"'
+p33
+aS'isoniazid "squid"'
+p34
+aS'isoniazid "quail"'
+p35
+aS'isoniazid "wheat"'
+p36
+aS'isoniazid "fruit juice"'
+p37
+aS'isoniazid "climbing bean"'
+p38
+aS'isoniazid "liquorice"'
+p39
+aS'isoniazid "yam"'
+p40
+aS'isoniazid "cocktail"'
+p41
+aS'isoniazid "garlic"'
+p42
+aS'isoniazid "watercress"'
+p43
+aS'isoniazid "shrimp"'
+p44
+aS'isoniazid "cinnamon"'
+p45
+aS'isoniazid "whiting"'
+p46
+aS'isoniazid "radish"'
+p47
+aS'isoniazid "lime"'
+p48
+aS'isoniazid "alcoholic beverages"'
+p49
+aS'isoniazid "pineappple sage"'
+p50
+aS'isoniazid "dock"'
+p51
+aS'isoniazid "sunflower"'
+p52
+aS'isoniazid "anchovy"'
+p53
+aS'isoniazid "fishes"'
+p54
+aS'isoniazid "caraway"'
+p55
+aS'isoniazid "striped bass"'
+p56
+aS'isoniazid "tea"'
+p57
+aS'isoniazid "linden"'
+p58
+aS'isoniazid "rum"'
+p59
+aS'isoniazid "pectin"'
+p60
+aS'isoniazid "jellyfish"'
+p61
+aS'isoniazid "beaver"'
+p62
+aS'isoniazid "syrup"'
+p63
+aS'isoniazid "greenthread tea"'
+p64
+aS'isoniazid "butter"'
+p65
+aS'isoniazid "columbidae (dove, pigeon)"'
+p66
+aS'isoniazid "sake"'
+p67
+aS'isoniazid "sorrel"'
+p68
+aS'isoniazid "squirrel"'
+p69
+aS'isoniazid "lupine"'
+p70
+aS'isoniazid "soup"'
+p71
+aS'isoniazid "other sandwich"'
+p72
+aS'isoniazid "milk (human)"'
+p73
+aS'isoniazid "millet"'
+p74
+aS'isoniazid "chia"'
+p75
+aS'isoniazid "tamale"'
+p76
+aS'isoniazid "eggs"'
+p77
+aS'isoniazid "chocolate"'
+p78
+aS'isoniazid "cashew nut"'
+p79
+aS'isoniazid "olive"'
+p80
+aS'isoniazid "potato"'
+p81
+aS'isoniazid "pheasant"'
+p82
+aS'isoniazid "soft-necked garlic"'
+p83
+aS'isoniazid "honey"'
+p84
+aS'isoniazid "peanut"'
+p85
+aS'isoniazid "walnut"'
+p86
+aS'isoniazid "beer"'
+p87
+aS'isoniazid "grapefruit"'
+p88
+aS'isoniazid "coffee"'
+p89
+aS'isoniazid "citrus"'
+p90
+aS'isoniazid "other animal fat"'
+p91
+aS'isoniazid "fruits"'
+p92
+aS'isoniazid "roe"'
+p93
+aS'isoniazid "grape"'
+p94
+aS'isoniazid "roselle"'
+p95
+aS'isoniazid "pollock"'
+p96
+aS'isoniazid "barley"'
+p97
+aS'isoniazid "sauce"'
+p98
+aS'isoniazid "asparagus"'
+p99
+aS'isoniazid "thistle"'
+p100
+aS'isoniazid "gelatin"'
+p101
+aS'isoniazid "cream"'
+p102
+aS'isoniazid "spirulina"'
+p103
+aS'isoniazid "pot marjoram"'
+p104
+aS'isoniazid "scyphozoa"'
+p105
+aS'isoniazid "vitis vinifera"'
+p106
+aS'isoniazid "tamarindus indica"'
+p107
+aS'isoniazid "olea europaea"'
+p108
+aS'isoniazid "citrus sinensis"'
+p109
+aS'isoniazid "bubalus bubalis"'
+p110
+aS'isoniazid "columbidae"'
+p111
+aS'isoniazid "allium"'
+p112
+aS'isoniazid "foeniculum vulgare"'
+p113
+aS'isoniazid "ginkgo biloba"'
+p114
+aS'isoniazid "cicer arietinum"'
+p115
+aS'isoniazid "levisticum officinale"'
+p116
+aS'isoniazid "morone saxatilis"'
+p117
+aS'isoniazid "physalis"'
+p118
+aS'isoniazid "spinacia oleracea"'
+p119
+aS'isoniazid "vitis"'
+p120
+aS'isoniazid "nephropidae"'
+p121
+aS'isoniazid "citrus aurantiifolia"'
+p122
+aS'isoniazid "allium sativum"'
+p123
+aS'isoniazid "daucus carota"'
+p124
+aS'isoniazid "hibiscus sabdariffa"'
+p125
+aS'isoniazid "annona squamosa"'
+p126
+aS'isoniazid "zea mays"'
+p127
+aS'isoniazid "thymus vulgaris"'
+p128
+aS'isoniazid "gadiformes"'
+p129
+aS'isoniazid "agaricus bisporus"'
+p130
+aS'isoniazid "oryza sativa"'
+p131
+aS'isoniazid "ranidae"'
+p132
+aS'isoniazid "curcuma longa"'
+p133
+aS'isoniazid "solanum tuberosum"'
+p134
+aS'isoniazid "pinus"'
+p135
+aS'isoniazid "carum carvi"'
+p136
+aS'isoniazid "musa acuminata"'
+p137
+aS'isoniazid "moringa oleifera"'
+p138
+aS'isoniazid "amaranthus"'
+p139
+aS'isoniazid "hibiscus sabbariffa"'
+p140
+aS'isoniazid "gastropoda"'
+p141
+aS'isoniazid "salmonidae"'
+p142
+aS'isoniazid "zingiber officinale"'
+p143
+aS'isoniazid "spirulina"'
+p144
+aS'isoniazid "sus scrofa"'
+p145
+aS'isoniazid "lupinus"'
+p146
+aS'isoniazid "ziziphus zizyphus"'
+p147
+aS'isoniazid "origanum majorana"'
+p148
+aS'isoniazid "scyphozoa"'
+p149
+aS'isoniazid "lupinus"'
+p150
+aS'isoniazid "t. indica"'
+p151
+aS'isoniazid "o. europaea"'
+p152
+aS'isoniazid "c. sinensis"'
+p153
+aS'isoniazid "columbidae"'
+p154
+aS'isoniazid "allium"'
+p155
+aS'isoniazid "g. biloba"'
+p156
+aS'isoniazid "physalis"'
+p157
+aS'isoniazid "vitis"'
+p158
+aS'isoniazid "nephropidae"'
+p159
+aS'isoniazid "n. lutea"'
+p160
+aS'isoniazid "h. sabdariffa"'
+p161
+aS'isoniazid "f. vulgare"'
+p162
+aS'isoniazid "gadiformes"'
+p163
+aS'isoniazid "ranidae"'
+p164
+aS'isoniazid "pinus"'
+p165
+aS'isoniazid "c. carvi"'
+p166
+aS'isoniazid "m. oleifera"'
+p167
+aS'isoniazid "amaranthus"'
+p168
+aS'isoniazid "m. x"'
+p169
+aS'isoniazid "a. speciosa"'
+p170
+aS'isoniazid "gastropoda"'
+p171
+aS'isoniazid "salmonidae"'
+p172
+aS'isoniazid "m. x"'
+p173
+aS'isoniazid "c. sinensis"'
+p174
+aS'isoniazid "spirulina"'
+p175
+aS'isoniazid "sp1"'
+p176
+aS'isoniazid "ellagic acid acetyl-arabinoside"'
+p177
+aS'isoniazid "gadolinium"'
+p178
+aS'isoniazid "3,5,6-trihydroxy-5-(hydroxymethyl)-2-methoxy-2-cyclohexen-1-one"'
+p179
+aS'isoniazid "24,25-dihydroxyvitamin d3"'
+p180
+aS'isoniazid "6beta,7beta-dihydroxykaurenoic acid"'
+p181
+aS'isoniazid "resins"'
+p182
+aS'isoniazid "nb-trans-p-coumaroylserotonin glucoside"'
+p183
+aS'isoniazid "kaempferol 3-feruloyl-triglucoside"'
+p184
+aS'isoniazid "lf"'
+p185
+aS'isoniazid "estrone"'
+p186
+aS'isoniazid "d-ribose"'
+p187
+aS'isoniazid "graecunin h-3"'
+p188
+aS'isoniazid "aflatoxin"'
+p189
+aS'isoniazid "oxalic acid"'
+p190
+aS'isoniazid "vanillin"'
+p191
+aS'isoniazid "ash"'
+p192
+aS'isoniazid "3-methyl-1,2-cyclopentanedione"'
+p193
+aS'isoniazid "acetophenone"'
+p194
+aS'isoniazid "bisdemethoxycurcumin"'
+p195
+aS'isoniazid "n-methoxyspirobrassinol methyl ether"'
+p196
+aS'isoniazid "benzyl ethyl ether"'
+p197
+aS'isoniazid "uridine diphosphate"'
+p198
+aS'isoniazid "5,7-dimethoxycoumarin"'
+p199
+aS'isoniazid "isoflavones"'
+p200
+aS'isoniazid "ca2+"'
+p201
+aS'isoniazid "beta-elemene"'
+p202
+aS'isoniazid "beta-methylthiopropionic acid methyl ester"'
+p203
+aS'isoniazid "ruthenium"'
+p204
+aS'isoniazid "(-)-menthol"'
+p205
+aS'isoniazid "l-phenylalanine"'
+p206
+aS'isoniazid "catechin"'
+p207
+aS'isoniazid "1,8-cineole"'
+p208
+aS'isoniazid "quercetin 3-(2g-rhamnosylgentiobioside)"'
+p209
+aS'isoniazid "d-camphor"'
+p210
+aS'isoniazid "diacylglycerol"'
+p211
+aS'isoniazid "kaempferol 3-sophoroside-rhamnoside"'
+p212
+aS'isoniazid "steviol"'
+p213
+aS'isoniazid "imperatorin"'
+p214
+aS'isoniazid "longifolene"'
+p215
+aS'isoniazid "cytosine"'
+p216
+aS'isoniazid "l-(-)-phenylalanine"'
+p217
+aS'isoniazid "ethyl methyl amine"'
+p218
+aS'isoniazid "vanillic acid"'
+p219
+aS'isoniazid "3-(4-methylphenyl)-pyridine"'
+p220
+aS'isoniazid "2-ethylpyridine"'
+p221
+aS'isoniazid "l-tryptophan"'
+p222
+aS'isoniazid "cardiolipin"'
+p223
+aS'isoniazid "4-hydroxy-3-prenylbenzoic acid glucoside"'
+p224
+aS'isoniazid "5,7-megastigmadien-9-ol glucoside"'
+p225
+aS'isoniazid "glycyrrhiza triterpene"'
+p226
+aS'isoniazid "alpha-oxoglutaric acid"'
+p227
+aS'isoniazid "carnitine"'
+p228
+aS'isoniazid "kaempferol 3-(2g-rhamnosylgentiobioside)"'
+p229
+aS'isoniazid "(2e)-piperamide-c5:1"'
+p230
+aS'isoniazid "trimethylamine"'
+p231
+aS'isoniazid "4-ipomeanol"'
+p232
+aS'isoniazid "2-methyl-1,5-dinitro-3-nitrosobenzene"'
+p233
+aS'isoniazid "5\',8-dihydroxy-3\',4\',7-trimethoxyflavan"'
+p234
+aS'isoniazid "hydrogen peroxide (h2o2)"'
+p235
+aS'isoniazid "citral"'
+p236
+aS'isoniazid "1,4-naphthoquinone"'
+p237
+aS'isoniazid "glucosides"'
+p238
+aS'isoniazid "5-\xce\xb2-pregnan-3,20 dione"'
+p239
+aS'isoniazid "1-chloro-2,4-dinitrobenzene"'
+p240
+aS'isoniazid "psoralen"'
+p241
+aS'isoniazid "kaempferol 3-o-alpha-l-rhamnoside-beta-d-glucosyl"'
+p242
+aS'isoniazid "hexanal"'
+p243
+aS'isoniazid "l-lactic acid"'
+p244
+aS'isoniazid "quercetin 3-o-rhamnosyl-galactoside"'
+p245
+aS'isoniazid "phosphocholine"'
+p246
+aS'isoniazid "decanoate"'
+p247
+aS'isoniazid "pas i"'
+p248
+aS'isoniazid "disulfides"'
+p249
+aS'isoniazid "phosphoric acid"'
+p250
+aS'isoniazid "trans-1,10-heptadecadiene-5,7-diyn-3-ol"'
+p251
+aS'isoniazid "isothiocyanates"'
+p252
+aS'isoniazid "rubidium"'
+p253
+aS'isoniazid "tin"'
+p254
+aS'isoniazid "gein"'
+p255
+aS'isoniazid "limonene"'
+p256
+aS'isoniazid "iron oxide"'
+p257
+aS'isoniazid "phosphoglucomutase"'
+p258
+aS'isoniazid "molybdenum"'
+p259
+aS'isoniazid "2,6-dimethylpyridine"'
+p260
+aS'isoniazid "chlorophyll"'
+p261
+aS'isoniazid "quercetin 3-(6\'\'\'\'-caffeylsophorotrioside)"'
+p262
+aS'isoniazid "bupropion"'
+p263
+aS'isoniazid "dipentene o-diphenollactone"'
+p264
+aS'isoniazid "quercetin 3-(2-galloylglucoside)"'
+p265
+aS'isoniazid "mn2+"'
+p266
+aS'isoniazid "quercetin 3-(2-glucosylrhamnoside)"'
+p267
+aS'isoniazid "l-iditol"'
+p268
+aS'isoniazid "curcumin"'
+p269
+aS'isoniazid "adp"'
+p270
+aS'isoniazid "7alpha,16beta-17-trihydroxy"'
+p271
+aS'isoniazid "biphenyl"'
+p272
+aS'isoniazid "myristate"'
+p273
+aS'isoniazid "11b-hydroxygibberellin a7"'
+p274
+aS'isoniazid "kaempferol 3-o-rhamnodiglucoside"'
+p275
+aS'isoniazid "n-butanol"'
+p276
+aS'isoniazid "l-glutamic acid 5-phosphate"'
+p277
+aS'isoniazid "monoterpenes"'
+p278
+aS'isoniazid "pyrroline"'
+p279
+aS'isoniazid "isodulcitol"'
+p280
+aS'isoniazid "kaempferol 3-o-glucosyl-rhamnosyl-galactoside"'
+p281
+aS'isoniazid "styrene"'
+p282
+aS'isoniazid "(r)-limonene"'
+p283
+aS'isoniazid "selenomethionine"'
+p284
+aS'isoniazid "cyanocobalamin"'
+p285
+aS'isoniazid "[16]-gingerol"'
+p286
+aS'isoniazid "protoporphyrin ix"'
+p287
+aS'isoniazid "pavetannin a2"'
+p288
+aS'isoniazid "formate"'
+p289
+aS'isoniazid "2a-hydroxyoleanolic acid methyl ester"'
+p290
+aS'isoniazid "gyromitrin"'
+p291
+aS'isoniazid "2-amino-3,4-dimethylimidazo[4,5-f]quinoline"'
+p292
+aS'isoniazid "dihydrolipoamide"'
+p293
+aS'isoniazid "cincassiol d4"'
+p294
+aS'isoniazid "latex"'
+p295
+aS'isoniazid "cincassiol d1"'
+p296
+aS'isoniazid "cincassiol d2"'
+p297
+aS'isoniazid "cincassiol c3"'
+p298
+aS'isoniazid "cytidine"'
+p299
+aS'isoniazid "d-glucose"'
+p300
+aS'isoniazid "alpha-pinene"'
+p301
+aS'isoniazid "kaempferol 3-glucosylxyloside"'
+p302
+aS'isoniazid "biotin"'
+p303
+aS'isoniazid "hebevinoside xii"'
+p304
+aS'isoniazid "n-methylaniline"'
+p305
+aS'isoniazid "fe3+"'
+p306
+aS'isoniazid "isopimpinellin"'
+p307
+aS'isoniazid "4\',5,6,7,8-pentahydroxy-3\'-methoxyflavone"'
+p308
+aS'isoniazid "hebevinoside xiv"'
+p309
+aS'isoniazid "3-epigibberellin a1"'
+p310
+aS'isoniazid "d-ribulose-1,5-bisphosphate"'
+p311
+aS'isoniazid "beta-galactosidase"'
+p312
+aS'isoniazid "allyl alcohol"'
+p313
+aS'isoniazid "zn2+"'
+p314
+aS'isoniazid "anthranilate"'
+p315
+aS'isoniazid "(2r)-1-o-beta-d-galactopyranosylglycerol"'
+p316
+aS'isoniazid "pyrophosphate"'
+p317
+aS'isoniazid "[9]-gingerol"'
+p318
+aS'isoniazid "falcarindiol"'
+p319
+aS'isoniazid "5-(methylthio)-pentanonitrile"'
+p320
+aS'isoniazid "myo-inositol"'
+p321
+aS'isoniazid "2\',4\',5,7-tetrahydroxy-8-prenylisoflavone"'
+p322
+aS'isoniazid "fluorene"'
+p323
+aS'isoniazid "3-deoxy-d-arabino-heptulosonate-7-phosphate"'
+p324
+aS'isoniazid "d-glucaric acid"'
+p325
+aS'isoniazid "\xce\xb2-d-ribofuranose"'
+p326
+aS'isoniazid "3-methoxy-4,5-methylenedioxypropylbenzene"'
+p327
+aS'isoniazid "4-hydroxybenzoic acid"'
+p328
+aS'isoniazid "platinum"'
+p329
+aS'isoniazid "harmine"'
+p330
+aS'isoniazid "delta-maslinic acid methyl ester"'
+p331
+aS'isoniazid "trans-p-menth-2-ene-1,4-diol"'
+p332
+aS'isoniazid "sakuranetin"'
+p333
+aS'isoniazid "quercetin 3-o-glucosyl-xyloside"'
+p334
+aS'isoniazid "ricinoleic acid"'
+p335
+aS'isoniazid "hexadecanoic acid"'
+p336
+aS'isoniazid "7-epi-12-hydroxyjasmonic acid glucoside"'
+p337
+aS'isoniazid "shikimate"'
+p338
+aS'isoniazid "2h-1,4-benzoxazin-3(4h)-one"'
+p339
+aS'isoniazid "kaempferol 3-gluco-xyloside"'
+p340
+aS'isoniazid "opc"'
+p341
+aS'isoniazid "3\'\',4\'\'-diacetylafzelin"'
+p342
+aS'isoniazid "quercetin 7-o-beta-d-glucopyranoside-beta-l-rhamnopyranoside"'
+p343
+aS'isoniazid "resin"'
+p344
+aS'isoniazid "6,7-dimethyoxy coumarin"'
+p345
+aS'isoniazid "hypoxanthine"'
+p346
+aS'isoniazid "2-propanol"'
+p347
+aS'isoniazid "silibinin"'
+p348
+aS'isoniazid "carbonate"'
+p349
+aS'isoniazid "hesperidin"'
+p350
+aS'isoniazid "phospholipase"'
+p351
+aS'isoniazid "quercetin 3-o-glucosyl-galactoside"'
+p352
+aS'isoniazid "bromine"'
+p353
+aS'isoniazid "benzylamine"'
+p354
+aS'isoniazid "quercetin 3-coumaroyl-triglucoside"'
+p355
+aS'isoniazid "\xce\xb5,\xce\xb5-carotene-3-diol"'
+p356
+aS'isoniazid "2\',2\'-dimethyl(pyrano-5\',6\':3:4)-1,5-dihydroxy-6-methoxy-10-methylacridone"'
+p357
+aS'isoniazid "8-hydroxy-2-methoxy-6-methyl-1,4-naphthoquinone"'
+p358
+aS'isoniazid "chlorohydrin"'
+p359
+aS'isoniazid "6-epi-7-isocucurbic acid glucoside"'
+p360
+aS'isoniazid "allantoin"'
+p361
+aS'isoniazid "hexadecane"'
+p362
+aS'isoniazid "piperidines"'
+p363
+aS'isoniazid "1alpha,15-dihydroxymarasmene"'
+p364
+aS'isoniazid "thallium"'
+p365
+aS'isoniazid "3,3\'-digalloylprodelphinidin b1"'
+p366
+aS'isoniazid "hexacosanoic acid"'
+p367
+aS'isoniazid "betulin"'
+p368
+aS'isoniazid "2,6-dimethoxy-1,4-benzoquinone"'
+p369
+aS'isoniazid "fumarate"'
+p370
+aS'isoniazid "trans-cinnamic acid"'
+p371
+aS'isoniazid "2\',3,4\',5-tetrahydroxy-4-prenylstilbene"'
+p372
+aS'isoniazid "lignin"'
+p373
+aS'isoniazid "4-acorene-3,8-dione"'
+p374
+aS'isoniazid "riboflavine"'
+p375
+aS'isoniazid "fluorine"'
+p376
+aS'isoniazid "wax"'
+p377
+aS'isoniazid "l-lysine"'
+p378
+aS'isoniazid "titanium"'
+p379
+aS'isoniazid "quercetin 3,3\'-diglucoside"'
+p380
+aS'isoniazid "(-)-alpha-pinene"'
+p381
+aS'isoniazid "purine"'
+p382
+aS'isoniazid "ceramide"'
+p383
+aS'isoniazid "glycolipids"'
+p384
+aS'isoniazid "phosphatidylethanolamine"'
+p385
+aS'isoniazid "guanidine"'
+p386
+aS'isoniazid "3,6-dimethyl-7-oxo-octanoic acid ethyl ester"'
+p387
+a.
