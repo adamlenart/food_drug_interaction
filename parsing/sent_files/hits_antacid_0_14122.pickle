@@ -1,0 +1,1674 @@
+(lp0
+S'antacid "fig"'
+p1
+aS'antacid "lard"'
+p2
+aS'antacid "gin"'
+p3
+aS'antacid "prickly pear"'
+p4
+aS'antacid "cloves"'
+p5
+aS'antacid "drag\xc3\xa9e"'
+p6
+aS'antacid "cichlidae (tilapia)"'
+p7
+aS'antacid "burdock"'
+p8
+aS'antacid "apricot"'
+p9
+aS'antacid "haddock"'
+p10
+aS'antacid "poppy"'
+p11
+aS'antacid "sorghum"'
+p12
+aS'antacid "kale"'
+p13
+aS'antacid "fennel"'
+p14
+aS'antacid "alfalfa"'
+p15
+aS'antacid "chicory"'
+p16
+aS'antacid "eastern oyster"'
+p17
+aS'antacid "sherry"'
+p18
+aS'antacid "lemon balm"'
+p19
+aS'antacid "snapper"'
+p20
+aS'antacid "red algae"'
+p21
+aS'antacid "other snack food"'
+p22
+aS'antacid "soy milk"'
+p23
+aS'antacid "cocoa butter"'
+p24
+aS'antacid "biscuit"'
+p25
+aS'antacid "ostrich"'
+p26
+aS'antacid "mung bean"'
+p27
+aS'antacid "rainbow trout"'
+p28
+aS'antacid "other fish product"'
+p29
+aS'antacid "pistachio"'
+p30
+aS'antacid "lotus"'
+p31
+aS'antacid "almond"'
+p32
+aS'antacid "ginger"'
+p33
+aS'antacid "lettuce"'
+p34
+aS'antacid "spinach"'
+p35
+aS'antacid "whey"'
+p36
+aS'antacid "papaya"'
+p37
+aS'antacid "green turtle"'
+p38
+aS'antacid "pear"'
+p39
+aS'antacid "nopal"'
+p40
+aS'antacid "salmonidae (salmon, trout)"'
+p41
+aS'antacid "other bread"'
+p42
+aS'antacid "cheese"'
+p43
+aS'antacid "oat"'
+p44
+aS'antacid "common ling"'
+p45
+aS'antacid "banana"'
+p46
+aS'antacid "pizza"'
+p47
+aS'antacid "mushrooms"'
+p48
+aS'antacid "processed cheese"'
+p49
+aS'antacid "mustard"'
+p50
+aS'antacid "acorn"'
+p51
+aS'antacid "hazelnut"'
+p52
+aS'antacid "cabbage"'
+p53
+aS'antacid "persimmon"'
+p54
+aS'antacid "dill"'
+p55
+aS'antacid "apple"'
+p56
+aS'antacid "ginseng"'
+p57
+aS'antacid "deer"'
+p58
+aS'antacid "carrot"'
+p59
+aS'antacid "common carp"'
+p60
+aS'antacid "calabash"'
+p61
+aS'antacid "cracker"'
+p62
+aS'antacid "hamburger"'
+p63
+aS'antacid "soft drink"'
+p64
+aS'antacid "turmeric"'
+p65
+aS'antacid "coconut"'
+p66
+aS'antacid "canola"'
+p67
+aS'antacid "squid"'
+p68
+aS'antacid "quail"'
+p69
+aS'antacid "fruit juice"'
+p70
+aS'antacid "peppermint"'
+p71
+aS'antacid "true oyster"'
+p72
+aS'antacid "yam"'
+p73
+aS'antacid "popcorn"'
+p74
+aS'antacid "milk (cow)"'
+p75
+aS'antacid "vinegar"'
+p76
+aS'antacid "garlic"'
+p77
+aS'antacid "allium (onion)"'
+p78
+aS'antacid "shrimp"'
+p79
+aS'antacid "milk and milk products"'
+p80
+aS'antacid "cinnamon"'
+p81
+aS'antacid "eggplant"'
+p82
+aS'antacid "whiting"'
+p83
+aS'antacid "marine mussel"'
+p84
+aS'antacid "radish"'
+p85
+aS'antacid "chickpea"'
+p86
+aS'antacid "chinese cabbage"'
+p87
+aS'antacid "lentils"'
+p88
+aS'antacid "sausage"'
+p89
+aS'antacid "shiitake"'
+p90
+aS'antacid "crab"'
+p91
+aS'antacid "alcoholic beverages"'
+p92
+aS'antacid "pineappple sage"'
+p93
+aS'antacid "dock"'
+p94
+aS'antacid "spirit"'
+p95
+aS'antacid "blue mussel"'
+p96
+aS'antacid "cauliflower"'
+p97
+aS'antacid "sesame"'
+p98
+aS'antacid "malus (crab apple)"'
+p99
+aS'antacid "dripping"'
+p100
+aS'antacid "scallop"'
+p101
+aS'antacid "asian pear"'
+p102
+aS'antacid "cassava"'
+p103
+aS'antacid "sunflower"'
+p104
+aS'antacid "ascidians"'
+p105
+aS'antacid "dandelion"'
+p106
+aS'antacid "spearmint"'
+p107
+aS'antacid "caraway"'
+p108
+aS'antacid "vegetable juice"'
+p109
+aS'antacid "edible shell"'
+p110
+aS'antacid "buttermilk"'
+p111
+aS'antacid "linden"'
+p112
+aS'antacid "mustard spinach"'
+p113
+aS'antacid "pudding"'
+p114
+aS'antacid "tortilla"'
+p115
+aS'antacid "cowpea"'
+p116
+aS'antacid "beaver"'
+p117
+aS'antacid "opossum"'
+p118
+aS'antacid "other meat product"'
+p119
+aS'antacid "jujube"'
+p120
+aS'antacid "syrup"'
+p121
+aS'antacid "cucumber"'
+p122
+aS'antacid "anguilliformes (eel)"'
+p123
+aS'antacid "cuttlefish"'
+p124
+aS'antacid "dried milk"'
+p125
+aS'antacid "cottonseed"'
+p126
+aS'antacid "rapini"'
+p127
+aS'antacid "emu"'
+p128
+aS'antacid "butter"'
+p129
+aS'antacid "columbidae (dove, pigeon)"'
+p130
+aS'antacid "evening primrose"'
+p131
+aS'antacid "sake"'
+p132
+aS'antacid "mentha (mint)"'
+p133
+aS'antacid "fudge"'
+p134
+aS'antacid "fenugreek"'
+p135
+aS'antacid "squirrel"'
+p136
+aS'antacid "bean"'
+p137
+aS'antacid "carob"'
+p138
+aS'antacid "pancake"'
+p139
+aS'antacid "whisky"'
+p140
+aS'antacid "soup"'
+p141
+aS'antacid "lasagna"'
+p142
+aS'antacid "pineapple"'
+p143
+aS'antacid "other sandwich"'
+p144
+aS'antacid "milk (human)"'
+p145
+aS'antacid "orange mint"'
+p146
+aS'antacid "millet"'
+p147
+aS'antacid "nuts"'
+p148
+aS'antacid "oil palm"'
+p149
+aS'antacid "chia"'
+p150
+aS'antacid "chestnut"'
+p151
+aS'antacid "chocolate"'
+p152
+aS'antacid "salad dressing"'
+p153
+aS'antacid "salad"'
+p154
+aS'antacid "oyster mushroom"'
+p155
+aS'antacid "cocoa and cocoa products"'
+p156
+aS'antacid "yogurt"'
+p157
+aS'antacid "sweet potato"'
+p158
+aS'antacid "apple cider"'
+p159
+aS'antacid "pheasant"'
+p160
+aS'antacid "cooking oil"'
+p161
+aS'antacid "soft-necked garlic"'
+p162
+aS'antacid "honey"'
+p163
+aS'antacid "kefir"'
+p164
+aS'antacid "blue crab"'
+p165
+aS'antacid "peanut"'
+p166
+aS'antacid "walnut"'
+p167
+aS'antacid "grapefruit"'
+p168
+aS'antacid "catfish"'
+p169
+aS'antacid "chicory roots"'
+p170
+aS'antacid "atlantic salmon"'
+p171
+aS'antacid "conch"'
+p172
+aS'antacid "other animal fat"'
+p173
+aS'antacid "fruits"'
+p174
+aS'antacid "roe"'
+p175
+aS'antacid "sturgeon"'
+p176
+aS'antacid "rape"'
+p177
+aS'antacid "angelica"'
+p178
+aS'antacid "grape"'
+p179
+aS'antacid "roselle"'
+p180
+aS'antacid "pollock"'
+p181
+aS'antacid "sauce"'
+p182
+aS'antacid "true sole"'
+p183
+aS'antacid "icing"'
+p184
+aS'antacid "lemon"'
+p185
+aS'antacid "chili"'
+p186
+aS'antacid "horseradish"'
+p187
+aS'antacid "safflower"'
+p188
+aS'antacid "garden onion"'
+p189
+aS'antacid "coffee and coffee products"'
+p190
+aS'antacid "other candy"'
+p191
+aS'antacid "thistle"'
+p192
+aS'antacid "fats and oils"'
+p193
+aS'antacid "ice cream"'
+p194
+aS'antacid "coho salmon"'
+p195
+aS'antacid "rye"'
+p196
+aS'antacid "kelp"'
+p197
+aS'antacid "mulberry"'
+p198
+aS'antacid "pacific oyster"'
+p199
+aS'antacid "spirulina"'
+p200
+aS'antacid "other vegetable product"'
+p201
+aS'antacid "king mackerel"'
+p202
+aS'antacid "shark"'
+p203
+aS'antacid "vitis vinifera"'
+p204
+aS'antacid "morus"'
+p205
+aS'antacid "chelonia mydas"'
+p206
+aS'antacid "acipenseridae"'
+p207
+aS'antacid "lupinus albus"'
+p208
+aS'antacid "brassica napus"'
+p209
+aS'antacid "nelumbo"'
+p210
+aS'antacid "tamarindus indica"'
+p211
+aS'antacid "olea europaea"'
+p212
+aS'antacid "citrus sinensis"'
+p213
+aS'antacid "opuntia"'
+p214
+aS'antacid "procyon lotor"'
+p215
+aS'antacid "apium graveolens"'
+p216
+aS'antacid "cyprinus carpio"'
+p217
+aS'antacid "lactuca sativa"'
+p218
+aS'antacid "acipenser"'
+p219
+aS'antacid "columbidae"'
+p220
+aS'antacid "allium"'
+p221
+aS'antacid "ginkgo biloba"'
+p222
+aS'antacid "sisymbrium"'
+p223
+aS'antacid "gossypium"'
+p224
+aS'antacid "lagenaria siceraria"'
+p225
+aS'antacid "portulaca oleracea"'
+p226
+aS'antacid "perciformes"'
+p227
+aS'antacid "physalis"'
+p228
+aS'antacid "odocoileus"'
+p229
+aS'antacid "oncorhynchus kisutch"'
+p230
+aS'antacid "spinacia oleracea"'
+p231
+aS'antacid "vitis"'
+p232
+aS'antacid "laurus nobilis"'
+p233
+aS'antacid "nephropidae"'
+p234
+aS'antacid "hordeum vulgare"'
+p235
+aS'antacid "struthio camelus"'
+p236
+aS'antacid "arachis hypogaea"'
+p237
+aS'antacid "raphanus sativus"'
+p238
+aS'antacid "daucus carota"'
+p239
+aS'antacid "oncorhynchus mykiss"'
+p240
+aS'antacid "crassostrea virginica"'
+p241
+aS'antacid "thymus vulgaris"'
+p242
+aS'antacid "crassostrea gigas"'
+p243
+aS'antacid "ficus carica"'
+p244
+aS'antacid "papaver somniferum"'
+p245
+aS'antacid "elaeis"'
+p246
+aS'antacid "psidium guajava"'
+p247
+aS'antacid "gadiformes"'
+p248
+aS'antacid "solanum melongena"'
+p249
+aS'antacid "lepidium sativum"'
+p250
+aS'antacid "sciuridae"'
+p251
+aS'antacid "agaricus bisporus"'
+p252
+aS'antacid "oryza sativa"'
+p253
+aS'antacid "ranidae"'
+p254
+aS'antacid "mytilidae"'
+p255
+aS'antacid "homarus americanus"'
+p256
+aS'antacid "myristica fragrans"'
+p257
+aS'antacid "secale cereale"'
+p258
+aS'antacid "vicia faba"'
+p259
+aS'antacid "fagopyrum esculentum"'
+p260
+aS'antacid "salvia officinalis"'
+p261
+aS'antacid "salvelinus"'
+p262
+aS'antacid "chenopodium album"'
+p263
+aS'antacid "curcuma longa"'
+p264
+aS'antacid "solanum tuberosum"'
+p265
+aS'antacid "pinus"'
+p266
+aS'antacid "quercus"'
+p267
+aS'antacid "allium cepa"'
+p268
+aS'antacid "moringa oleifera"'
+p269
+aS'antacid "brachyura"'
+p270
+aS'antacid "pectinidae"'
+p271
+aS'antacid "gallus gallus"'
+p272
+aS'antacid "avena sativa"'
+p273
+aS'antacid "amaranthus"'
+p274
+aS'antacid "chondrus crispus"'
+p275
+aS'antacid "beta vulgaris"'
+p276
+aS'antacid "salmo salar"'
+p277
+aS'antacid "mentha"'
+p278
+aS'antacid "pleurotus ostreatus"'
+p279
+aS'antacid "malus"'
+p280
+aS'antacid "sinapis alba"'
+p281
+aS'antacid "papaver"'
+p282
+aS'antacid "phaseolus lunatus"'
+p283
+aS'antacid "salmonidae"'
+p284
+aS'antacid "zingiber officinale"'
+p285
+aS'antacid "panax"'
+p286
+aS'antacid "spirulina"'
+p287
+aS'antacid "cetacea"'
+p288
+aS'antacid "capsicum"'
+p289
+aS'antacid "ascidiacea"'
+p290
+aS'antacid "mytilus edulis"'
+p291
+aS'antacid "phaseolus vulgaris"'
+p292
+aS'antacid "callinectes sapidus"'
+p293
+aS'antacid "rosmarinus officinalis"'
+p294
+aS'antacid "sus scrofa"'
+p295
+aS'antacid "lupinus"'
+p296
+aS'antacid "medicago sativa"'
+p297
+aS'antacid "camellia sinensis"'
+p298
+aS'antacid "ziziphus zizyphus"'
+p299
+aS'antacid "carya"'
+p300
+aS'antacid "octopus vulgaris"'
+p301
+aS'antacid "anas platyrhynchos"'
+p302
+aS'antacid "squalus acanthias"'
+p303
+aS'antacid "triticum aestivum"'
+p304
+aS'antacid "citrus paradisi x citrus maxima"'
+p305
+aS'antacid "morus"'
+p306
+aS'antacid "acipenseridae"'
+p307
+aS'antacid "l. albus"'
+p308
+aS'antacid "nelumbo"'
+p309
+aS'antacid "lupinus"'
+p310
+aS'antacid "c. sinensis"'
+p311
+aS'antacid "opuntia"'
+p312
+aS'antacid "p. lotor"'
+p313
+aS'antacid "p. ostreatus"'
+p314
+aS'antacid "acipenser"'
+p315
+aS'antacid "columbidae"'
+p316
+aS'antacid "r. \xc3\x97"'
+p317
+aS'antacid "allium"'
+p318
+aS'antacid "sisymbrium"'
+p319
+aS'antacid "malus"'
+p320
+aS'antacid "gossypium"'
+p321
+aS'antacid "c. virginica"'
+p322
+aS'antacid "perciformes"'
+p323
+aS'antacid "physalis"'
+p324
+aS'antacid "odocoileus"'
+p325
+aS'antacid "f. x"'
+p326
+aS'antacid "vitis"'
+p327
+aS'antacid "nephropidae"'
+p328
+aS'antacid "a. cepa"'
+p329
+aS'antacid "o. mykiss"'
+p330
+aS'antacid "t. vulgaris"'
+p331
+aS'antacid "elaeis"'
+p332
+aS'antacid "gadiformes"'
+p333
+aS'antacid "sciuridae"'
+p334
+aS'antacid "ranidae"'
+p335
+aS'antacid "mytilidae"'
+p336
+aS'antacid "mentha"'
+p337
+aS'antacid "salvelinus"'
+p338
+aS'antacid "a. bisporus"'
+p339
+aS'antacid "pinus"'
+p340
+aS'antacid "quercus"'
+p341
+aS'antacid "a. cepa"'
+p342
+aS'antacid "brachyura"'
+p343
+aS'antacid "amaranthus"'
+p344
+aS'antacid "c. crispus"'
+p345
+aS'antacid "m. x"'
+p346
+aS'antacid "p. philadelphica"'
+p347
+aS'antacid "pectinidae"'
+p348
+aS'antacid "papaver"'
+p349
+aS'antacid "p. lunatus"'
+p350
+aS'antacid "salmonidae"'
+p351
+aS'antacid "c. x"'
+p352
+aS'antacid "z. officinale"'
+p353
+aS'antacid "o. x"'
+p354
+aS'antacid "panax"'
+p355
+aS'antacid "cetacea"'
+p356
+aS'antacid "capsicum"'
+p357
+aS'antacid "ascidiacea"'
+p358
+aS'antacid "m. edulis"'
+p359
+aS'antacid "p. vulgaris"'
+p360
+aS'antacid "c. sapidus"'
+p361
+aS'antacid "r. officinalis"'
+p362
+aS'antacid "m. x"'
+p363
+aS'antacid "c. sinensis"'
+p364
+aS'antacid "carya"'
+p365
+aS'antacid "spirulina"'
+p366
+aS'antacid "t. aestivum"'
+p367
+aS'antacid "sp1"'
+p368
+aS'antacid "3,5,6-trihydroxy-5-(hydroxymethyl)-2-methoxy-2-cyclohexen-1-one"'
+p369
+aS'antacid "24,25-dihydroxyvitamin d3"'
+p370
+aS'antacid "octanoic acid"'
+p371
+aS'antacid "nb-trans-p-coumaroylserotonin glucoside"'
+p372
+aS'antacid "nicotianamine"'
+p373
+aS'antacid "kaempferol 3-feruloyl-triglucoside"'
+p374
+aS'antacid "ginsenoside m7cd"'
+p375
+aS'antacid "estrone"'
+p376
+aS'antacid "aflatoxin"'
+p377
+aS'antacid "2-(1-methylethyl)-4-propylthiazole"'
+p378
+aS'antacid "1,5,5,9-tetramethyl-bicyclo[4.3.0]-non-8-en-7-one"'
+p379
+aS'antacid "vanillin"'
+p380
+aS'antacid "4-vinylphenol"'
+p381
+aS'antacid "carvone oxide"'
+p382
+aS'antacid "(r)-apiumetin glucoside"'
+p383
+aS'antacid "benzyl ethyl ether"'
+p384
+aS'antacid "uridine diphosphate"'
+p385
+aS'antacid "protoporphyrin"'
+p386
+aS'antacid "isoflavones"'
+p387
+aS'antacid "beta-methylthiopropionic acid methyl ester"'
+p388
+aS'antacid "(-)-menthol"'
+p389
+aS'antacid "l-phenylalanine"'
+p390
+aS'antacid "catechin"'
+p391
+aS'antacid "aloe emodin w-acetate"'
+p392
+aS'antacid "lysolecithin"'
+p393
+aS'antacid "n-dodecane"'
+p394
+aS'antacid "abscisic acid"'
+p395
+aS'antacid "l-ascorbic acid"'
+p396
+aS'antacid "diacylglycerol"'
+p397
+aS'antacid "kaempferol 3-sophoroside-rhamnoside"'
+p398
+aS'antacid "n-decane"'
+p399
+aS'antacid "(z,z)-9,12-octadecadienoic acid"'
+p400
+aS'antacid "(-)-borneol"'
+p401
+aS'antacid "cytosine"'
+p402
+aS'antacid "l-(-)-phenylalanine"'
+p403
+aS'antacid "ethyl methyl amine"'
+p404
+aS'antacid "vanillic acid"'
+p405
+aS'antacid "gamma-dihydrositosterol ferulic acid ester"'
+p406
+aS'antacid "l-tryptophan"'
+p407
+aS'antacid "cardiolipin"'
+p408
+aS'antacid "4-hydroxy-3-prenylbenzoic acid glucoside"'
+p409
+aS'antacid "porphobilinogen"'
+p410
+aS'antacid "tyramine"'
+p411
+aS'antacid "5,7-megastigmadien-9-ol glucoside"'
+p412
+aS'antacid "2,10-bisaboladiene-1,4-diol"'
+p413
+aS'antacid "carnitine"'
+p414
+aS'antacid "kaempferol 3-(2g-rhamnosylgentiobioside)"'
+p415
+aS'antacid "ginsenoside m6-bc"'
+p416
+aS'antacid "(2e)-piperamide-c5:1"'
+p417
+aS'antacid "trimethylamine"'
+p418
+aS'antacid "hex-trans-2-enyl hexanoate"'
+p419
+aS'antacid "hafnium"'
+p420
+aS'antacid "5\',8-dihydroxy-3\',4\',7-trimethoxyflavan"'
+p421
+aS'antacid "hydrogen peroxide (h2o2)"'
+p422
+aS'antacid "citral"'
+p423
+aS'antacid "glucosides"'
+p424
+aS'antacid "benzoyl peroxide"'
+p425
+aS'antacid "5-aminolevulinic acid"'
+p426
+aS'antacid "5-\xce\xb2-pregnan-3,20 dione"'
+p427
+aS'antacid "ammonia (nh3)"'
+p428
+aS'antacid "kaempferol 3-o-alpha-l-rhamnoside-beta-d-glucosyl"'
+p429
+aS'antacid "quercetin 3-o-rhamnosyl-galactoside"'
+p430
+aS'antacid "phosphocholine"'
+p431
+aS'antacid "beta-glucan"'
+p432
+aS'antacid "decanoate"'
+p433
+aS'antacid "disulfides"'
+p434
+aS'antacid "trans-1,10-heptadecadiene-5,7-diyn-3-ol"'
+p435
+aS'antacid "isothiocyanates"'
+p436
+aS'antacid "rubidium"'
+p437
+aS'antacid "auxin b"'
+p438
+aS'antacid "limonene"'
+p439
+aS'antacid "thial-1-propene-1-thiol s-oxide"'
+p440
+aS'antacid "p-coumaric acid"'
+p441
+aS'antacid "cinchonine"'
+p442
+aS'antacid "liquiritin"'
+p443
+aS'antacid "2,3-pentanedione"'
+p444
+aS'antacid "chlorogenic acid"'
+p445
+aS'antacid "ascaridole"'
+p446
+aS'antacid "dipentene o-diphenollactone"'
+p447
+aS'antacid "pentoses"'
+p448
+aS'antacid "(all-e)-6\'-apo-y-caroten-6\'-al"'
+p449
+aS'antacid "mn2+"'
+p450
+aS'antacid "2-ethylhexanoic acid"'
+p451
+aS'antacid "leukotriene-c4"'
+p452
+aS'antacid "curcumin"'
+p453
+aS'antacid "docusate sodium"'
+p454
+aS'antacid "bisulfite"'
+p455
+aS'antacid "laurate"'
+p456
+aS'antacid "adp"'
+p457
+aS'antacid "hex-cis-3-en-1-ol hexanoate"'
+p458
+aS'antacid "11b-hydroxygibberellin a7"'
+p459
+aS'antacid "kaempferol 3-o-rhamnodiglucoside"'
+p460
+aS'antacid "n-butanol"'
+p461
+aS'antacid "pyridoxal"'
+p462
+aS'antacid "monoterpenes"'
+p463
+aS'antacid "3-hydroxyflavone"'
+p464
+aS'antacid "soja hispidasaponin c"'
+p465
+aS'antacid "isodulcitol"'
+p466
+aS'antacid "kaempferol 3-o-glucosyl-rhamnosyl-galactoside"'
+p467
+aS'antacid "synergistic antifungal protein"'
+p468
+aS'antacid "1-methyl 2-galloylgalactarate"'
+p469
+aS'antacid "guanosine"'
+p470
+aS'antacid "protoporphyrin ix"'
+p471
+aS'antacid "n-(2r-hydroxydocosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p472
+aS'antacid "2a-hydroxyoleanolic acid methyl ester"'
+p473
+aS'antacid "dihydrolipoamide"'
+p474
+aS'antacid "2\',4\'-dihydroxy-2-biphenylcarboxylic acid"'
+p475
+aS'antacid "cincassiol d4"'
+p476
+aS'antacid "cincassiol d1"'
+p477
+aS'antacid "behenate"'
+p478
+aS'antacid "hydrogen carbonate"'
+p479
+aS'antacid "s-methyl methanesulfinothioate"'
+p480
+aS'antacid "cytidine"'
+p481
+aS'antacid "d-glucose"'
+p482
+aS'antacid "crassostrea secocarotenoid"'
+p483
+aS'antacid "kaempferol 3-glucosylxyloside"'
+p484
+aS'antacid "polyisoprene"'
+p485
+aS'antacid "hebevinoside xii"'
+p486
+aS'antacid "phytin phosphorus"'
+p487
+aS'antacid "avocadyne 1-acetate"'
+p488
+aS'antacid "4\',5,6,7,8-pentahydroxy-3\'-methoxyflavone"'
+p489
+aS'antacid "hebevinoside xiv"'
+p490
+aS'antacid "beta-galactosidase"'
+p491
+aS'antacid "d-ribulose 5-phosphate"'
+p492
+aS'antacid "allyl alcohol"'
+p493
+aS'antacid "zn2+"'
+p494
+aS'antacid "(2r)-1-o-beta-d-galactopyranosylglycerol"'
+p495
+aS'antacid "nicotinic acid"'
+p496
+aS'antacid "5-(methylthio)-pentanonitrile"'
+p497
+aS'antacid "myo-inositol"'
+p498
+aS'antacid "2\',4\',5,7-tetrahydroxy-8-prenylisoflavone"'
+p499
+aS'antacid "alline"'
+p500
+aS'antacid "fluorene"'
+p501
+aS'antacid "hydrogen sulfide (h2s)"'
+p502
+aS'antacid "calcium nitrate"'
+p503
+aS'antacid "d-glucaric acid"'
+p504
+aS'antacid "n-heptadecane"'
+p505
+aS'antacid "pyrazines"'
+p506
+aS'antacid "avocadene 1-acetate"'
+p507
+aS'antacid "isoliquiritigenin"'
+p508
+aS'antacid "4-hydroxybenzoic acid"'
+p509
+aS'antacid "delta-maslinic acid methyl ester"'
+p510
+aS'antacid "n-nitrosodimethylamine"'
+p511
+aS'antacid "thromboxane a2"'
+p512
+aS'antacid "trans-p-menth-2-ene-1,4-diol"'
+p513
+aS'antacid "hydroxymethylbilane"'
+p514
+aS'antacid "quercetin 3-o-glucosyl-xyloside"'
+p515
+aS'antacid "hexadecanoic acid"'
+p516
+aS'antacid "7-epi-12-hydroxyjasmonic acid glucoside"'
+p517
+aS'antacid "(-)-quinic acid"'
+p518
+aS'antacid "ferulic acid"'
+p519
+aS'antacid "l-carnosine"'
+p520
+aS'antacid "kaempferol 3-gluco-xyloside"'
+p521
+aS'antacid "opc"'
+p522
+aS'antacid "quercetin 7-o-beta-d-glucopyranoside-beta-l-rhamnopyranoside"'
+p523
+aS'antacid "6,7-dimethyoxy coumarin"'
+p524
+aS'antacid "hypoxanthine"'
+p525
+aS'antacid "2-propanol"'
+p526
+aS'antacid "s-methyl 2-propene-1-sulfinothioate"'
+p527
+aS'antacid "hesperidin"'
+p528
+aS'antacid "rhein"'
+p529
+aS'antacid "n-acetylneuraminic acid"'
+p530
+aS'antacid "quercetin 3-o-glucosyl-galactoside"'
+p531
+aS'antacid "gossypol"'
+p532
+aS'antacid "bromine"'
+p533
+aS'antacid "benzylamine"'
+p534
+aS'antacid "quercetin 3-coumaroyl-triglucoside"'
+p535
+aS'antacid "6-epi-7-isocucurbic acid glucoside"'
+p536
+aS'antacid "xylitol"'
+p537
+aS'antacid "hexadecane"'
+p538
+aS'antacid "cyanide"'
+p539
+aS'antacid "glycerol trioleate"'
+p540
+aS'antacid "chitin-binding protein n"'
+p541
+aS'antacid "1alpha,15-dihydroxymarasmene"'
+p542
+aS'antacid "1-heptadecene"'
+p543
+aS'antacid "3,3\'-digalloylprodelphinidin b1"'
+p544
+aS'antacid "gibberellin a34-catabolite"'
+p545
+aS'antacid "propanoic acid"'
+p546
+aS'antacid "2\',3,4\',5-tetrahydroxy-4-prenylstilbene"'
+p547
+aS'antacid "homoserine"'
+p548
+aS'antacid "cyclohexanol"'
+p549
+aS'antacid "l-malic acid"'
+p550
+aS'antacid "chitinase"'
+p551
+aS'antacid "3-hydroxybenzoic acid"'
+p552
+aS'antacid "n-heptane"'
+p553
+aS'antacid "dihydrobenzofuran"'
+p554
+aS'antacid "l-lysine"'
+p555
+aS'antacid "n-(2r-hydroxyhexacosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p556
+aS'antacid "purine"'
+p557
+aS'antacid "ceramide"'
+p558
+aS'antacid "ethyl benzene"'
+p559
+aS'antacid "glycolipids"'
+p560
+aS'antacid "(s)-3-methylthiohexyl butyrate"'
+p561
+aS'antacid "aesculin"'
+p562
+aS'antacid "phosphatidylethanolamine"'
+p563
+aS'antacid "caprolactam"'
+p564
+aS'antacid "dehydroascorbic acid"'
+p565
+aS'antacid "guanidine"'
+p566
+aS'antacid "10-hydroxy-8-nor-2-fenchanone glucoside"'
+p567
+aS'antacid "spermidine"'
+p568
+aS'antacid "nadp+"'
+p569
+aS'antacid "nitrogenase"'
+p570
+aS'antacid "n-(1-deoxy-1-fructosyl)alanine"'
+p571
+aS'antacid "nadph"'
+p572
+aS'antacid "n,n-dimethylformamide"'
+p573
+aS'antacid "theobromine"'
+p574
+aS'antacid "meso-2,2\'-iminobispropanoic acid"'
+p575
+aS'antacid "4-vinylpyridine"'
+p576
+aS'antacid "5\',5\'\'\'-diadenosine triphosphate"'
+p577
+aS'antacid "cellobiose"'
+p578
+aS'antacid "methacrylic acid"'
+p579
+aS'antacid "dibenzyl ether"'
+p580
+aS'antacid "cotinine"'
+p581
+aS'antacid "benzyl alcohol 6-o-l-arabinofuranosyl-beta-d-glucopyranoside"'
+p582
+aS'antacid "piperine"'
+p583
+aS'antacid "palmitoleic acid"'
+p584
+aS'antacid "capsaicin"'
+p585
+aS'antacid "cis-2,5-diethyl-tetrahydrofuran"'
+p586
+aS'antacid "integrin"'
+p587
+aS'antacid "kaempferol 3-(2g-apiosylrobinobioside)"'
+p588
+aS'antacid "4-(3-hydroxy-7-phenyl-6-heptenyl)-1,2-benzenediol"'
+p589
+aS'antacid "benzaldehyde"'
+p590
+aS'antacid "benzophenone"'
+p591
+aS'antacid "menatetrenone"'
+p592
+aS'antacid "1-phenyl-2,4-pentadiyn-1-one"'
+p593
+aS'antacid "cmp"'
+p594
+aS'antacid "4-acetyl-2-prenylphenol glucoside"'
+p595
+aS'antacid "l-asparagine"'
+p596
+aS'antacid "gliadin"'
+p597
+aS'antacid "d-galactose"'
+p598
+aS'antacid "toluidine"'
+p599
+aS'antacid "7\',8\'-dihydro-8\'-hydroxycitraniaxanthin"'
+p600
+aS'antacid "1-propanol"'
+p601
+aS'antacid "o-toluidine"'
+p602
+aS'antacid "xylan"'
+p603
+aS'antacid "ubiquinone 100"'
+p604
+aS'antacid "pyrazine"'
+p605
+aS'antacid "cyclo(glycylleucylvalylleucylprolylseryl)"'
+p606
+aS'antacid "(8e)-piperamide-c9:1"'
+p607
+aS'antacid "s-methyl hexanethioate"'
+p608
+aS'antacid "kaempferol 3-rhamno-glucoside"'
+p609
+aS'antacid "kaempferol"'
+p610
+aS'antacid "ornithine"'
+p611
+aS'antacid "1,8-epoxy-p-menthan-4-ol glucoside"'
+p612
+aS'antacid "6-(gamma,gamma-dimethylallyl-amino)-purine"'
+p613
+aS'antacid "mevalonic acid"'
+p614
+aS'antacid "cyclo(glycylglycylleucylleucylleucylprolylprolylphenylalanyl)"'
+p615
+aS'antacid "sesquiterpenes"'
+p616
+aS'antacid "acetamide"'
+p617
+aS'antacid "kynurenine"'
+p618
+aS'antacid "acetic acid hex-cis-3-enyl ester"'
+p619
+aS'antacid "aflatoxin b1"'
+p620
+aS'antacid "propene"'
+p621
+aS'antacid "3\',4\',7-trimethylgossypetin"'
+p622
+aS'antacid "pyrrolidine"'
+p623
+aS'antacid "13-nor-6-eremophilene-8,11-dione"'
+p624
+aS'antacid "pyrrole"'
+p625
+aS'antacid "d-sorbitol"'
+p626
+aS'antacid "d-glutamic acid"'
+p627
+aS'antacid "deoxypyridinoline"'
+p628
+aS'antacid "carvone"'
+p629
+aS'antacid "uracil"'
+p630
+aS'antacid "inulin"'
+p631
+aS'antacid "octanoate"'
+p632
+aS'antacid "saturated fatty acids"'
+p633
+aS'antacid "n-(2r-hydroxypentacosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p634
+aS'antacid "prostaglandin e-2"'
+p635
+aS'antacid "benzoic acid"'
+p636
+aS'antacid "thaumatin"'
+p637
+aS'antacid "iridium"'
+p638
+aS'antacid "flavones"'
+p639
+aS'antacid "calmodulin"'
+p640
+aS'antacid "diethylamine"'
+p641
+aS'antacid "l-serine"'
+p642
+aS'antacid "kaempferol 3-(2\'\'\'-caffeoylsophoroside) 7-cellobioside"'
+p643
+aS'antacid "phytochelatin a"'
+p644
+aS'antacid "tetradecanoic acid"'
+p645
+aS'antacid "petunin"'
+p646
+aS'antacid "anthracene"'
+p647
+aS'antacid "lupeol"'
+p648
+aS'antacid "gladiatoside b3"'
+p649
+aS'antacid "quercetin 3-o-rhamnodiglucoside"'
+p650
+aS'antacid "kaempferol 7-arabinoside"'
+p651
+aS'antacid "pyrrolidine carboxylic acid"'
+p652
+aS'antacid "cholate"'
+p653
+aS'antacid "10-hydroxymyristic acid methyl ester"'
+p654
+aS'antacid "cytarabine"'
+p655
+aS'antacid "\xce\xb2-alanine"'
+p656
+aS'antacid "ethanolamine"'
+p657
+aS'antacid "carbamate"'
+p658
+aS'antacid "hexane"'
+p659
+aS'antacid "pavetannin d1"'
+p660
+aS'antacid "methyl 7-epi-12-hydroxyjasmonate glucoside"'
+p661
+aS'antacid "nicotinamide"'
+p662
+aS'antacid "tocopherols"'
+p663
+aS'antacid "dihydroxyacetone phosphate"'
+p664
+aS'antacid "alpha,alpha-p-trimethylbenzyl alcohol ether"'
+p665
+aS'antacid "esterase"'
+p666
+aS'antacid "sativoside r1"'
+p667
+aS'antacid "cyclo(alanylalanylglycylleucylprolyltryptophylleucylisoleucyl)"'
+p668
+aS'antacid "retinol"'
+p669
+aS'antacid "dysprosium"'
+p670
+aS'antacid "hydroquinone"'
+p671
+aS'antacid "isoliquiritin"'
+p672
+aS'antacid "dimethylamine"'
+p673
+aS'antacid "quercetin 3-feruloyl-triglucoside"'
+p674
+aS'antacid "glycolate"'
+p675
+aS'antacid "l-isoleucine"'
+p676
+aS'antacid "l-glutamine"'
+p677
+aS'antacid "hebevinoside xiii"'
+p678
+aS'antacid "melatonin"'
+p679
+aS'antacid "spermine"'
+p680
+aS'antacid "s-methyl 4-methylpentanethioate"'
+p681
+aS'antacid "quercetin 7-glucosylrhamnoside"'
+p682
+aS'antacid "rhenium"'
+p683
+aS'antacid "nb-trans-feruloylserotonin glucoside"'
+p684
+aS'antacid "octane"'
+p685
+aS'antacid "dl-lactic acid"'
+p686
+aS'antacid "praseodymium"'
+p687
+aS'antacid "3,5-dimethylquercetin glucoside"'
+p688
+aS'antacid "molybdate"'
+p689
+aS'antacid "glyoxylic acid"'
+p690
+aS'antacid "(3s)-3-hydroxycyclocitral"'
+p691
+aS'antacid "2,4-dinitrophenylhydrazone"'
+p692
+aS'antacid "7\',8\'-dihydro-8\'-hydroxyreticulataxanthin"'
+p693
+aS'antacid "kaempferol 3-(3r-glucosylrutinoside)"'
+p694
+aS'antacid "uridine"'
+p695
+aS'antacid "substance p"'
+p696
+aS'antacid "kaempferol 3-rhamnofuranoside"'
+p697
+aS'antacid "xanthine"'
+p698
+aS'antacid "arabinose"'
+p699
+aS'antacid "l-alanine"'
+p700
+aS'antacid "lycopene"'
+p701
+aS'antacid "orotic acid"'
+p702
+aS'antacid "ribonuclease"'
+p703
+aS'antacid "mevalonic acid-5p"'
+p704
+aS'antacid "glucosamine"'
+p705
+aS'antacid "hesperidin 7-o-alpha-l-rhamno-glucoside"'
+p706
+aS'antacid "dctp"'
+p707
+aS'antacid "benzoate"'
+p708
+aS'antacid "cyclohexanone"'
+p709
+aS'antacid "butyl acetate"'
+p710
+aS'antacid "emodin"'
+p711
+aS'antacid "papain"'
+p712
+aS'antacid "(s)-4\',5,7-trihydroxy-8-prenylflavanone"'
+p713
+aS'antacid "thiocyanic acid"'
+p714
+aS'antacid "quercetin rhamnoside-xyloside"'
+p715
+aS'antacid "deoxyuridine"'
+p716
+aS'antacid "narirutin"'
+p717
+aS'antacid "rubisco"'
+p718
+aS'antacid "caffeoylquinic acid"'
+p719
+aS'antacid "deoxycytidine"'
+p720
+aS'antacid "lipoamide"'
+p721
+aS'antacid "wheat gluten"'
+p722
+aS'antacid "undecylenic acid"'
+p723
+aS'antacid "phytol"'
+p724
+aS'antacid "(-)-lactol"'
+p725
+aS'antacid "kaempferol 3-(6-acetylgalactoside)"'
+p726
+aS'antacid "galactaric acid"'
+p727
+aS'antacid "triacylglycerol"'
+p728
+aS'antacid "hydroxylamine"'
+p729
+aS'antacid "genistein"'
+p730
+aS'antacid "trans-2-decadienic acid methyl ester"'
+p731
+aS'antacid "pantothenic acid"'
+p732
+aS'antacid "quercetin"'
+p733
+aS'antacid "kaempferol 3-feruloyltriglucoside"'
+p734
+aS'antacid "quercetin 3-o-glucosyl-rhamnosyl-galactoside"'
+p735
+aS'antacid "m-secociguatoxin 4a"'
+p736
+aS'antacid "n-(2r-hydroxytricosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p737
+aS'antacid "s-methyl-5-thio-\xce\xb1-d-ribose 1-phosphate"'
+p738
+aS'antacid "carbon disulfide"'
+p739
+aS'antacid "glyceric acid"'
+p740
+aS'antacid "carotene"'
+p741
+aS'antacid "2\'-deoxyguanosine"'
+p742
+aS'antacid "samarium"'
+p743
+aS'antacid "bromelains"'
+p744
+aS'antacid "4-hydroxy-2,6-dimethyl-7-octen-3-one"'
+p745
+aS'antacid "cinnamic acid"'
+p746
+aS'antacid "liquiritin 2\'\'-apioside"'
+p747
+aS'antacid "kaempferol 7-(6\'\'-p-coumaroylglucoside)"'
+p748
+aS'antacid "cyclic gmp"'
+p749
+aS'antacid "trans-1,8-terpin"'
+p750
+aS'antacid "d-xylose"'
+p751
+aS'antacid "3b,18b-3-methoxy-11-oxo-12-oleanen-30-oic acid"'
+p752
+aS'antacid "urate"'
+p753
+aS'antacid "quercetin 3-gluco-xyloside"'
+p754
+aS'antacid "l-cystine"'
+p755
+aS'antacid "kaempferol 3-o-beta-d-xylofuranoside"'
+p756
+aS'antacid "hg2+"'
+p757
+aS'antacid "l-2-aminoethyl seryl phosphate"'
+p758
+aS'antacid "(s)-1\',2\'-epoxy-1\',2\'-dihydro-b,y-carotene"'
+p759
+aS'antacid "jasmonic acid"'
+p760
+aS'antacid "lactyltrimethylammonium betaine"'
+p761
+aS'antacid "scandium"'
+p762
+aS'antacid "kaempferol 3-o-xylosyl-rutinoside"'
+p763
+aS'antacid "l-threonine"'
+p764
+aS'antacid "\xce\xb1-tocopherol"'
+p765
+aS'antacid "oleate"'
+p766
+aS'antacid "farnesyl pyrophosphate"'
+p767
+aS'antacid "concanavalin a"'
+p768
+aS'antacid "maltose"'
+p769
+aS'antacid "cellulase"'
+p770
+aS'antacid "cis-2,8-menthadien-2-ol"'
+p771
+aS'antacid "benzyl alcohol"'
+p772
+aS'antacid "kaempferol 3-(2\'\'\'-sinapoylsophoroside) 7-cellobioside"'
+p773
+aS'antacid "retinal"'
+p774
+aS'antacid "4-aminobenzoic acid"'
+p775
+aS'antacid "s-methyl 1-propenesulfinothioate"'
+p776
+aS'antacid "propylene glycol"'
+p777
+aS'antacid "(-)-3-cyanomethyl-3-hydroxy-1h-indol-2(3h)-one"'
+p778
+aS'antacid "kaempferol 3-(2g-p-coumaroylrutinoside)"'
+p779
+aS'antacid "galactitol"'
+p780
+aS'antacid "kaempferol 3-(2\\"'
+p781
+aS'antacid "guanine"'
+p782
+aS'antacid "cyclohexanones"'
+p783
+aS'antacid "diaminopimelic acid"'
+p784
+aS'antacid "acrolein"'
+p785
+aS'antacid "octyl formate"'
+p786
+aS'antacid "melilotussaponin o1"'
+p787
+aS'antacid "xantofyl palmitate"'
+p788
+aS'antacid "phthalic acid"'
+p789
+aS'antacid "l-tyrosine"'
+p790
+aS'antacid "fmn"'
+p791
+aS'antacid "arabinoxylan"'
+p792
+aS'antacid "3,3\',4\',7-tetramethylgossypetin"'
+p793
+aS'antacid "l-aspartate"'
+p794
+aS'antacid "arachidonic acid"'
+p795
+aS'antacid "kaempferol 3-o-alpha-l-galactoside"'
+p796
+aS'antacid "pyruvate"'
+p797
+aS'antacid "cinnamyl alcohol"'
+p798
+aS'antacid "n1,n10-dicoumaroylspermidine"'
+p799
+aS'antacid "dextrin"'
+p800
+aS'antacid "menadione"'
+p801
+aS'antacid "dioctyl phthalate"'
+p802
+aS'antacid "dicoumarol"'
+p803
+aS'antacid "octadecanoic acid"'
+p804
+aS'antacid "l-proline"'
+p805
+aS'antacid "cu2+"'
+p806
+aS'antacid "beta-carotene"'
+p807
+aS'antacid "gibberellin a51-catabolite"'
+p808
+aS'antacid "hippuric acid"'
+p809
+aS'antacid "indole-3-acetic acid cellulosiglucan"'
+p810
+aS'antacid "d-fructose"'
+p811
+aS'antacid "l-aspartic acid"'
+p812
+aS'antacid "ethyl acrylate"'
+p813
+aS'antacid "isoborneol"'
+p814
+aS'antacid "mfa"'
+p815
+aS'antacid "oxygenase"'
+p816
+aS'antacid "dimethicone"'
+p817
+aS'antacid "graecunin h-4"'
+p818
+aS'antacid "ethyl acetoacetate"'
+p819
+aS'antacid "selenate"'
+p820
+aS'antacid "quercetin 3-o-caffeyl-glucoside"'
+p821
+aS'antacid "dimethyl peroxide"'
+p822
+aS'antacid "sennoside a"'
+p823
+aS'antacid "silicon oxide"'
+p824
+aS'antacid "agavasaponin c\'"'
+p825
+aS'antacid "cyanate"'
+p826
+aS'antacid "potassium nitrate (kno3)"'
+p827
+aS'antacid "alkaloid"'
+p828
+aS'antacid "dimethyl sulfide"'
+p829
+aS'antacid "3\' 5\'-cyclic amp"'
+p830
+aS'antacid "hydrolase"'
+p831
+aS'antacid "thio-molybdenum cofactor"'
+p832
+aS'antacid "betaine"'
+p833
+aS'antacid "thymine"'
+p834
+aS'antacid "piperenol a triacetate"'
+p835
+aS'antacid "glyoxal"'
+p836
+a.
