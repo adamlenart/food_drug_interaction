@@ -1,0 +1,506 @@
+(lp0
+S'digoxin "pyrazines"'
+p1
+aS'digoxin "s-adenosyl-l-homocysteine"'
+p2
+aS'digoxin "isoliquiritigenin"'
+p3
+aS'digoxin "platinum"'
+p4
+aS'digoxin "delta-maslinic acid methyl ester"'
+p5
+aS'digoxin "thromboxane a2"'
+p6
+aS'digoxin "trans-p-menth-2-ene-1,4-diol"'
+p7
+aS'digoxin "geranyl acetate"'
+p8
+aS'digoxin "ricinoleic acid"'
+p9
+aS'digoxin "7-epi-12-hydroxyjasmonic acid glucoside"'
+p10
+aS'digoxin "panaxatriol"'
+p11
+aS'digoxin "(-)-quinic acid"'
+p12
+aS'digoxin "kaempferol 3-gluco-xyloside"'
+p13
+aS'digoxin "17alpha-ethynylestradiol"'
+p14
+aS'digoxin "opc"'
+p15
+aS'digoxin "6,7-dimethyoxy coumarin"'
+p16
+aS'digoxin "hypoxanthine"'
+p17
+aS'digoxin "silicic acid"'
+p18
+aS'digoxin "2-propanol"'
+p19
+aS'digoxin "silibinin"'
+p20
+aS'digoxin "carbonate"'
+p21
+aS'digoxin "ellagic acid 2-(6-glucosylglucoside)"'
+p22
+aS'digoxin "hesperidin"'
+p23
+aS'digoxin "rhein"'
+p24
+aS'digoxin "n-acetylneuraminic acid"'
+p25
+aS'digoxin "phospholipase"'
+p26
+aS'digoxin "gossypol"'
+p27
+aS'digoxin "bromine"'
+p28
+aS'digoxin "benzylamine"'
+p29
+aS'digoxin "\xce\xb5,\xce\xb5-carotene-3-diol"'
+p30
+aS'digoxin "6-epi-7-isocucurbic acid glucoside"'
+p31
+aS'digoxin "oleic acid"'
+p32
+aS'digoxin "ligustilide"'
+p33
+aS'digoxin "3,3\'-digalloylprodelphinidin b1"'
+p34
+aS'digoxin "fumarate"'
+p35
+aS'digoxin "propanoic acid"'
+p36
+aS'digoxin "levoglutamide"'
+p37
+aS'digoxin "\xce\xb2-d-galactose"'
+p38
+aS'digoxin "2\',3,4\',5-tetrahydroxy-4-prenylstilbene"'
+p39
+aS'digoxin "fluorine"'
+p40
+aS'digoxin "cyclohexanol"'
+p41
+aS'digoxin "linalool"'
+p42
+aS'digoxin "isopentyl alcohol"'
+p43
+aS'digoxin "8-c-ascorbylepigallocatechin 3-gallate"'
+p44
+aS'digoxin "chitinase"'
+p45
+aS'digoxin "wax"'
+p46
+aS'digoxin "chrysosplenetin"'
+p47
+aS'digoxin "apigenin 5-[4\'\'-rhamnosylglucoside]"'
+p48
+aS'digoxin "titanium"'
+p49
+aS'digoxin "quercetin 3,3\'-diglucoside"'
+p50
+aS'digoxin "(-)-alpha-pinene"'
+p51
+aS'digoxin "n-(2r-hydroxyhexacosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p52
+aS'digoxin "purine"'
+p53
+aS'digoxin "ceramide"'
+p54
+aS'digoxin "pc(14:0/24:0)"'
+p55
+aS'digoxin "phosphatidylethanolamine"'
+p56
+aS'digoxin "dehydroascorbic acid"'
+p57
+aS'digoxin "guanidine"'
+p58
+aS'digoxin "3,6-dimethyl-7-oxo-octanoic acid ethyl ester"'
+p59
+aS'digoxin "quercetin 3-(6\'\'-caffeoylsophorotrioside)"'
+p60
+aS'digoxin "spermidine"'
+p61
+aS'digoxin "quercetin 3-sulfate"'
+p62
+aS'digoxin "nadp+"'
+p63
+aS'digoxin "3-oxododecanoic acid glycerides"'
+p64
+aS'digoxin "n-(1-deoxy-1-fructosyl)alanine"'
+p65
+aS'digoxin "nadph"'
+p66
+aS'digoxin "geraniol"'
+p67
+aS'digoxin "(5alpha,14alpha)-14-methylcholestan-3-one"'
+p68
+aS'digoxin "zein"'
+p69
+aS'digoxin "biochanin-a"'
+p70
+aS'digoxin "ochratoxin a"'
+p71
+aS'digoxin "citronellol"'
+p72
+aS'digoxin "biochanin a"'
+p73
+aS'digoxin "dodecanoic acid"'
+p74
+aS'digoxin "theobromine"'
+p75
+aS'digoxin "methyl-[10]-gingerol"'
+p76
+aS'digoxin "methacrylic acid"'
+p77
+aS'digoxin "4-propan-2-ol-2-yl toluene"'
+p78
+aS'digoxin "hebevinoside vii"'
+p79
+aS'digoxin "benzyl alcohol 6-o-l-arabinofuranosyl-beta-d-glucopyranoside"'
+p80
+aS'digoxin "piperine"'
+p81
+aS'digoxin "capsaicin"'
+p82
+aS'digoxin "pavetannin b6"'
+p83
+aS'digoxin "integrin"'
+p84
+aS'digoxin "4-hydroxyferuloxyl methane"'
+p85
+aS'digoxin "copper"'
+p86
+aS'digoxin "eremopetasitenin c1"'
+p87
+aS'digoxin "eremopetasitenin c2"'
+p88
+aS'digoxin "eremopetasitenin c3"'
+p89
+aS'digoxin "quercetin 3-(sulfatoglucoside)"'
+p90
+aS'digoxin "cmp"'
+p91
+aS'digoxin "formononetin 7-(6\'\'-methylmalonylglucoside)"'
+p92
+aS'digoxin "ginsenoside rg3"'
+p93
+aS'digoxin "pc(16:0/20:0)"'
+p94
+aS'digoxin "pc(16:0/22:0)"'
+p95
+aS'digoxin "sapogenins"'
+p96
+aS'digoxin "d-galactose"'
+p97
+aS'digoxin "toluidine"'
+p98
+aS'digoxin "7\',8\'-dihydro-8\'-hydroxycitraniaxanthin"'
+p99
+aS'digoxin "1-propanol"'
+p100
+aS'digoxin "sanguinarine"'
+p101
+aS'digoxin "ubiquinone 100"'
+p102
+aS'digoxin "astin i"'
+p103
+aS'digoxin "cyclo(glycylleucylvalylleucylprolylseryl)"'
+p104
+aS'digoxin "dihydromaleimide beta-d-glucoside"'
+p105
+aS'digoxin "kaempferol 3-rhamno-glucoside"'
+p106
+aS'digoxin "kaempferol"'
+p107
+aS'digoxin "ornithine"'
+p108
+aS'digoxin "3,4-dihydro-2,2,5,7,8-pentamethyl-2h-1-benzopyran-6-ol"'
+p109
+aS'digoxin "sulfides"'
+p110
+aS'digoxin "diosgenin"'
+p111
+aS'digoxin "canthaxanthin"'
+p112
+aS'digoxin "beta-methylthiopropionic acid ethyl ester"'
+p113
+aS'digoxin "l-homocysteine"'
+p114
+aS'digoxin "eremopetasitenin a1"'
+p115
+aS'digoxin "mevalonic acid"'
+p116
+aS'digoxin "arsenic"'
+p117
+aS'digoxin "cyclo(glycylglycylleucylleucylleucylprolylprolylphenylalanyl)"'
+p118
+aS'digoxin "sesquiterpenes"'
+p119
+aS'digoxin "l-fucose"'
+p120
+aS'digoxin "acetamide"'
+p121
+aS'digoxin "acetic acid hex-cis-3-enyl ester"'
+p122
+aS'digoxin "aflatoxin b1"'
+p123
+aS'digoxin "quercetin 3-(3r-glucosylrutinoside)"'
+p124
+aS'digoxin "2\'\',6\'\'-diacetylorientin"'
+p125
+aS'digoxin "3\',4\',7-trimethylgossypetin"'
+p126
+aS'digoxin "pyrrolidine"'
+p127
+aS'digoxin "pyrrole"'
+p128
+aS'digoxin "pyridine"'
+p129
+aS'digoxin "conglutinin"'
+p130
+aS'digoxin "hex-cis-3-en-1-ol beta-d-glucoside"'
+p131
+aS'digoxin "uracil"'
+p132
+aS'digoxin "7-epizucchini factor a"'
+p133
+aS'digoxin "saturated fatty acids"'
+p134
+aS'digoxin "n-(2r-hydroxypentacosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p135
+aS'digoxin "prostaglandin e-2"'
+p136
+aS'digoxin "benzoic acid"'
+p137
+aS'digoxin "iridium"'
+p138
+aS'digoxin "flavones"'
+p139
+aS'digoxin "quercetin 3-(4-glucosylrhamnoside)"'
+p140
+aS'digoxin "phosphatidylcholine"'
+p141
+aS'digoxin "udp"'
+p142
+aS'digoxin "vitamin d3"'
+p143
+aS'digoxin "erythritol"'
+p144
+aS'digoxin "anthracene"'
+p145
+aS'digoxin "lignan"'
+p146
+aS'digoxin "gladiatoside b3"'
+p147
+aS'digoxin "gladiatoside b2"'
+p148
+aS'digoxin "kaempferol 7-arabinoside"'
+p149
+aS'digoxin "3-mercaptopyruvate"'
+p150
+aS'digoxin "cholate"'
+p151
+aS'digoxin "10-hydroxymyristic acid methyl ester"'
+p152
+aS'digoxin "cytarabine"'
+p153
+aS'digoxin "benzene"'
+p154
+aS'digoxin "\xce\xb2-alanine"'
+p155
+aS'digoxin "[7]-gingerol"'
+p156
+aS'digoxin "ethanolamine"'
+p157
+aS'digoxin "carbamate"'
+p158
+aS'digoxin "tetrahydro-6-(2-hydroxy-16,19-dimethylhexacosyl)-4-methyl-2h-pyran-2-one"'
+p159
+aS'digoxin "hexane"'
+p160
+aS'digoxin "nicotinamide"'
+p161
+aS'digoxin "cerium"'
+p162
+aS'digoxin "vitexin"'
+p163
+aS'digoxin "cesium"'
+p164
+aS'digoxin "propyl propionate"'
+p165
+aS'digoxin "esterase"'
+p166
+aS'digoxin "fad"'
+p167
+aS'digoxin "sativoside r1"'
+p168
+aS'digoxin "3alpha,15-dihydroxymarasmene"'
+p169
+aS'digoxin "cyclo(alanylalanylglycylleucylprolyltryptophylleucylisoleucyl)"'
+p170
+aS'digoxin "(r)-citronellal"'
+p171
+aS'digoxin "retinol"'
+p172
+aS'digoxin "vitexin 2\'\'-xyloside"'
+p173
+aS'digoxin "hydroquinone"'
+p174
+aS'digoxin "(r)-kawain"'
+p175
+aS'digoxin "hebevinoside xiii"'
+p176
+aS'digoxin "geranyl arabinopyranosyl-glucoside"'
+p177
+aS'digoxin "salicylic acid"'
+p178
+aS'digoxin "rotenone"'
+p179
+aS'digoxin "melatonin"'
+p180
+aS'digoxin "dttp"'
+p181
+aS'digoxin "malonyl coa"'
+p182
+aS'digoxin "turmerone"'
+p183
+aS'digoxin "dimethyl n,n-dimethylanthranilate"'
+p184
+aS'digoxin "nicotinic acid adenine dinucleotide"'
+p185
+aS'digoxin "spermine"'
+p186
+aS'digoxin "aconitic acid"'
+p187
+aS'digoxin "ent-epigallocatechin 3-gallate"'
+p188
+aS'digoxin "(24s)-24-methyl-25-dehydrocholesterol"'
+p189
+aS'digoxin "thiamine"'
+p190
+aS'digoxin "gallic acid"'
+p191
+aS'digoxin "ellagic acid"'
+p192
+aS'digoxin "licorice glycoside a"'
+p193
+aS'digoxin "octane"'
+p194
+aS'digoxin "l-cysteine"'
+p195
+aS'digoxin "(3s)-3-hydroxycyclocitral"'
+p196
+aS'digoxin "7\',8\'-dihydro-8\'-hydroxyreticulataxanthin"'
+p197
+aS'digoxin "quercetin 3-(6\'\'-sinapoylsophorotrioside)"'
+p198
+aS'digoxin "substance p"'
+p199
+aS'digoxin "kaempferol 3-rhamnofuranoside"'
+p200
+aS'digoxin "malonyl-coa"'
+p201
+aS'digoxin "xanthine"'
+p202
+aS'digoxin "2\'\',6\'\'-o-diacetyloninin"'
+p203
+aS'digoxin "manganese"'
+p204
+aS'digoxin "catechols"'
+p205
+aS'digoxin "glycyrrhetic acid"'
+p206
+aS'digoxin "ribonuclease"'
+p207
+aS'digoxin "mevalonic acid-5p"'
+p208
+aS'digoxin "glucosamine"'
+p209
+aS'digoxin "hydrogen sulfide"'
+p210
+aS'digoxin "hesperidin 7-o-alpha-l-rhamno-glucoside"'
+p211
+aS'digoxin "l-valine"'
+p212
+aS'digoxin "dctp"'
+p213
+aS'digoxin "benzoate"'
+p214
+aS'digoxin "hebevinoside ix"'
+p215
+aS'digoxin "emodin"'
+p216
+aS'digoxin "epigallocatechin"'
+p217
+aS'digoxin "papain"'
+p218
+aS'digoxin "pinene"'
+p219
+aS'digoxin "(s)-4\',5,7-trihydroxy-8-prenylflavanone"'
+p220
+aS'digoxin "trans-2-decadienic acid ethyl ester"'
+p221
+aS'digoxin "dehydrogibberellin ga-25"'
+p222
+aS'digoxin "20-hydroxyrutacridone epoxide"'
+p223
+aS'digoxin "narirutin"'
+p224
+aS'digoxin "deoxycytidine"'
+p225
+aS'digoxin "quercetin 3-(6\'\'\'\'-p-coumarylsophorotrioside)"'
+p226
+aS'digoxin "bergamottin"'
+p227
+aS'digoxin "quercetin 3-(6\'\'\'-rhamnosylgentiobioside)"'
+p228
+aS'digoxin "miltirone"'
+p229
+aS'digoxin "geranyl arabinofuranosyl-glucoside"'
+p230
+aS'digoxin "hydroxylamine"'
+p231
+aS'digoxin "genistein"'
+p232
+aS'digoxin "2-methylpropyl 3-hydroxy-2-methylidenebutanoate"'
+p233
+aS'digoxin "trans-2-decadienic acid methyl ester"'
+p234
+aS'digoxin "apigenin 7-o-beta-d-galactomannoside"'
+p235
+aS'digoxin "epicatechin 3-(3-methylgallate)"'
+p236
+aS'digoxin "pantothenic acid"'
+p237
+aS'digoxin "kaempferol 3-feruloyltriglucoside"'
+p238
+aS'digoxin "h2o"'
+p239
+aS'digoxin "m-secociguatoxin 4a"'
+p240
+aS'digoxin "n-(2r-hydroxytricosanoyl)-2s-amino-1,3s,4r-octadecanetriol"'
+p241
+aS'digoxin "apigenin 7-rhamnosylglucoside"'
+p242
+aS'digoxin "imidazole"'
+p243
+aS'digoxin "oxaloacetate"'
+p244
+aS'digoxin "tigogenin"'
+p245
+aS'digoxin "carotene"'
+p246
+aS'digoxin "notoginsenoside a"'
+p247
+aS'digoxin "formononetin 7-(2-p-hydroxybenzoylglucoside)"'
+p248
+aS'digoxin "beta-d-galactopyranosyl-(1->3)-beta-d-galactopyranosyl-(1->6)-d-galactose"'
+p249
+aS'digoxin "\xce\xb3-tocopherol"'
+p250
+aS'digoxin "(x)-1-nonen-3-yl acetate"'
+p251
+aS'digoxin "ginsenoside rh2"'
+p252
+a.
